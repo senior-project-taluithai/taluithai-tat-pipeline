@@ -1,0 +1,5923 @@
+{
+  "data": [
+    {
+      "placeId": "33023",
+      "status": "approved",
+      "name": "9 เจริญโภชนา",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "16.83984",
+      "longitude": "99.11430",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6301,
+          "name": "เมืองตาก"
+        },
+        "subDistrict": {
+          "subDistrictId": 630113,
+          "name": "หนองบัวใต้"
+        },
+        "postcode": "63000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003289",
+      "viewer": 5,
+      "slug": "9-เจริญโภชนา"
+    },
+    {
+      "placeId": "33024",
+      "status": "approved",
+      "name": "ร้านอาหาร 89",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.47097",
+      "longitude": "100.04794",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840405,
+          "name": "มะเร็ต"
+        },
+        "postcode": "84310"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005777",
+      "viewer": 6,
+      "slug": "ร้านอาหาร-89"
+    },
+    {
+      "placeId": "33025",
+      "status": "approved",
+      "name": "86 ข้าวต้มปลาทะเล",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.77846",
+      "longitude": "100.58527",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1017,
+          "name": "ห้วยขวาง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101704,
+          "name": "สามเสนนอก"
+        },
+        "postcode": "10310"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005574",
+      "viewer": 5,
+      "slug": "86-ข้าวต้มปลาทะเล"
+    },
+    {
+      "placeId": "33026",
+      "status": "approved",
+      "name": "85 ข้าวต้มโต้รุ่ง",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.86521",
+      "longitude": "100.64453",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1005,
+          "name": "บางเขน"
+        },
+        "subDistrict": {
+          "subDistrictId": 100508,
+          "name": "ท่าแร้ง"
+        },
+        "postcode": "10220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006451",
+      "viewer": 4,
+      "slug": "85-ข้าวต้มโต้รุ่ง"
+    },
+    {
+      "placeId": "33027",
+      "status": "approved",
+      "name": "88 กรีนพาร์ค",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.61401",
+      "longitude": "100.62105",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1101,
+          "name": "เมืองสมุทรปราการ"
+        },
+        "subDistrict": {
+          "subDistrictId": 110103,
+          "name": "บางเมือง"
+        },
+        "postcode": "10270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002902",
+      "viewer": 4,
+      "slug": "88-กรีนพาร์ค"
+    },
+    {
+      "placeId": "33028",
+      "status": "approved",
+      "name": "84 ข้าวปุ้นน้ำงัว",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "17.57574",
+      "longitude": "104.59482",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "นครพนม"
+        },
+        "district": {
+          "districtId": 4803,
+          "name": "ท่าอุเทน"
+        },
+        "subDistrict": {
+          "subDistrictId": 480301,
+          "name": "ท่าอุเทน"
+        },
+        "postcode": "48120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007526",
+      "viewer": 5,
+      "slug": "84-ข้าวปุ้นน้ำงัว"
+    },
+    {
+      "placeId": "33029",
+      "status": "approved",
+      "name": "8 เซียนโภชนา",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.79440",
+      "longitude": "100.62788",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "คลองจั่น"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006283",
+      "viewer": 4,
+      "slug": "8-เซียนโภชนา"
+    },
+    {
+      "placeId": "33031",
+      "status": "approved",
+      "name": "สนามกอล์ฟ 76",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.61531",
+      "longitude": "100.53014",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1104,
+          "name": "พระประแดง"
+        },
+        "subDistrict": {
+          "subDistrictId": 110403,
+          "name": "บางจาก"
+        },
+        "postcode": "10130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002447",
+      "viewer": 4,
+      "slug": "สนามกอล์ฟ-76"
+    },
+    {
+      "placeId": "33032",
+      "status": "approved",
+      "name": "786 ร้านอาหารอิสลาม",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "20.16497",
+      "longitude": "99.63837",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5715,
+          "name": "แม่ฟ้าหลวง"
+        },
+        "subDistrict": {
+          "subDistrictId": 571503,
+          "name": "แม่สลองนอก"
+        },
+        "postcode": "57110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007925",
+      "viewer": 5,
+      "slug": "786-ร้านอาหารอิสลาม"
+    },
+    {
+      "placeId": "33037",
+      "status": "approved",
+      "name": "สวน 72 พรรษามหาราชินี",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "15.22754",
+      "longitude": "103.04792",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 572,
+          "name": "บุรีรัมย์"
+        },
+        "district": {
+          "districtId": 3102,
+          "name": "คูเมือง"
+        },
+        "subDistrict": {
+          "subDistrictId": 310205,
+          "name": "หินเหล็กไฟ"
+        },
+        "postcode": "31190"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002350",
+      "viewer": 4,
+      "slug": "สวน-72-พรรษามหาราชินี"
+    },
+    {
+      "placeId": "33038",
+      "status": "approved",
+      "name": "72 เอกมัย",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.72556",
+      "longitude": "100.58555",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "วัฒนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 103903,
+          "name": "พระโขนงเหนือ"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003244",
+      "viewer": 4,
+      "slug": "72-เอกมัย"
+    },
+    {
+      "placeId": "33039",
+      "status": "approved",
+      "name": "71 คอฟฟี่แอนด์มอร์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.71574",
+      "longitude": "100.59491",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "วัฒนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 103903,
+          "name": "พระโขนงเหนือ"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005934",
+      "viewer": 4,
+      "slug": "71-คอฟฟี่แอนด์มอร์"
+    },
+    {
+      "placeId": "33041",
+      "status": "approved",
+      "name": "70 กิโล 4",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.63802",
+      "longitude": "101.40980",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "นครราชสีมา"
+        },
+        "district": {
+          "districtId": 3021,
+          "name": "ปากช่อง"
+        },
+        "subDistrict": {
+          "subDistrictId": 302110,
+          "name": "หนองน้ำแดง"
+        },
+        "postcode": "30130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003264",
+      "viewer": 5,
+      "slug": "70-กิโล-4"
+    },
+    {
+      "placeId": "33042",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "14.82182",
+      "longitude": "100.64787",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "ลพบุรี"
+        },
+        "district": {
+          "districtId": 1601,
+          "name": "เมืองลพบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 160101,
+          "name": "ทะเลชุบศร"
+        },
+        "postcode": "15000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003832",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33045",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.91190",
+      "longitude": "100.43373",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "บางบัวทอง"
+        },
+        "subDistrict": {
+          "subDistrictId": 120407,
+          "name": "พิมลราช"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003762",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33046",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.84180",
+      "longitude": "100.61817",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "ลาดพร้าว"
+        },
+        "subDistrict": {
+          "subDistrictId": 103802,
+          "name": "จรเข้บัว"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003760",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33047",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.53866",
+      "longitude": "101.00853",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 220,
+          "name": "ฉะเชิงเทรา"
+        },
+        "district": {
+          "districtId": 2404,
+          "name": "บางปะกง"
+        },
+        "subDistrict": {
+          "subDistrictId": 240412,
+          "name": "เขาดิน"
+        },
+        "postcode": "24130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003761",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33048",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.83947",
+      "longitude": "100.69630",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1046,
+          "name": "คลองสามวา"
+        },
+        "subDistrict": {
+          "subDistrictId": 104603,
+          "name": "บางชัน"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003763",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33049",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.91182",
+      "longitude": "100.43018",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "บางบัวทอง"
+        },
+        "subDistrict": {
+          "subDistrictId": 120407,
+          "name": "พิมลราช"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003758",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33050",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.80851",
+      "longitude": "100.54847",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1030,
+          "name": "จตุจักร"
+        },
+        "subDistrict": {
+          "subDistrictId": 103005,
+          "name": "จตุจักร"
+        },
+        "postcode": "10900"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003755",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33051",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75636",
+      "longitude": "100.51317",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1008,
+          "name": "ป้อมปราบศัตรูพ่าย"
+        },
+        "subDistrict": {
+          "subDistrictId": 100803,
+          "name": "คลองมหานาค"
+        },
+        "postcode": "10100"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003757",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33052",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.77776",
+      "longitude": "100.55915",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1026,
+          "name": "ดินแดง"
+        },
+        "subDistrict": {
+          "subDistrictId": 102602,
+          "name": "รัชดาภิเษก"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003756",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33053",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.72158",
+      "longitude": "100.54631",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1028,
+          "name": "สาทร"
+        },
+        "subDistrict": {
+          "subDistrictId": 102803,
+          "name": "ทุ่งมหาเมฆ"
+        },
+        "postcode": "10120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003754",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33056",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.77014",
+      "longitude": "100.73266",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "ลาดกระบัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101102,
+          "name": "คลองสองต้นนุ่น"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003752",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33057",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.81129",
+      "longitude": "100.54888",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1030,
+          "name": "จตุจักร"
+        },
+        "subDistrict": {
+          "subDistrictId": 103005,
+          "name": "จตุจักร"
+        },
+        "postcode": "10900"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003753",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33058",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.76435",
+      "longitude": "100.54011",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "ราชเทวี"
+        },
+        "subDistrict": {
+          "subDistrictId": 103702,
+          "name": "ถนนพญาไท"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003751",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33059",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.78195",
+      "longitude": "100.57481",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1017,
+          "name": "ห้วยขวาง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101701,
+          "name": "ห้วยขวาง"
+        },
+        "postcode": "10310"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003636",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33060",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75238",
+      "longitude": "100.52742",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "ราชเทวี"
+        },
+        "subDistrict": {
+          "subDistrictId": 103703,
+          "name": "ถนนเพชรบุรี"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003633",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33061",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.73294",
+      "longitude": "100.59739",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "วัฒนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 103902,
+          "name": "คลองตันเหนือ"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003632",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33062",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "14.01894",
+      "longitude": "100.52731",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "ปทุมธานี"
+        },
+        "district": {
+          "districtId": 1301,
+          "name": "เมืองปทุมธานี"
+        },
+        "subDistrict": {
+          "subDistrictId": 130101,
+          "name": "บางปรอก"
+        },
+        "postcode": "12000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003634",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33063",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.80280",
+      "longitude": "100.72974",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1010,
+          "name": "มีนบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 101001,
+          "name": "มีนบุรี"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003635",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33066",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.88791",
+      "longitude": "100.51074",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "เมืองนนทบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 120105,
+          "name": "ท่าทราย"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003630",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33067",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75872",
+      "longitude": "100.61652",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100608,
+          "name": "หัวหมาก"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003631",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33068",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.68005",
+      "longitude": "100.60978",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1047,
+          "name": "บางนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 104702,
+          "name": "บางนาเหนือ"
+        },
+        "postcode": "10260"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003629",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33069",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75559",
+      "longitude": "100.79810",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "ลาดกระบัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101104,
+          "name": "ลำปลาทิว"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003627",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33070",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.78412",
+      "longitude": "100.49503",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1025,
+          "name": "บางพลัด"
+        },
+        "subDistrict": {
+          "subDistrictId": 102504,
+          "name": "บางยี่ขัน"
+        },
+        "postcode": "10700"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003626",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33071",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "15.23556",
+      "longitude": "104.86580",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 587,
+          "name": "อุบลราชธานี"
+        },
+        "district": {
+          "districtId": 3401,
+          "name": "เมืองอุบลราชธานี"
+        },
+        "subDistrict": {
+          "subDistrictId": 340101,
+          "name": "ในเมือง"
+        },
+        "postcode": "34000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003579",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33072",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.80068",
+      "longitude": "100.44301",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1202,
+          "name": "บางกรวย"
+        },
+        "subDistrict": {
+          "subDistrictId": 120207,
+          "name": "มหาสวัสดิ์"
+        },
+        "postcode": "11130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003568",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33073",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.71431",
+      "longitude": "100.58798",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "คลองเตย"
+        },
+        "subDistrict": {
+          "subDistrictId": 103303,
+          "name": "พระโขนง"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003569",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33074",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.67475",
+      "longitude": "101.06727",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 220,
+          "name": "ฉะเชิงเทรา"
+        },
+        "district": {
+          "districtId": 2401,
+          "name": "เมืองฉะเชิงเทรา"
+        },
+        "subDistrict": {
+          "subDistrictId": 240101,
+          "name": "หน้าเมือง"
+        },
+        "postcode": "24000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003567",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33075",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.84018",
+      "longitude": "100.54929",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1030,
+          "name": "จตุจักร"
+        },
+        "subDistrict": {
+          "subDistrictId": 103001,
+          "name": "ลาดยาว"
+        },
+        "postcode": "10900"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003566",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33076",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.90705",
+      "longitude": "100.63205",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1042,
+          "name": "สายไหม"
+        },
+        "subDistrict": {
+          "subDistrictId": 104203,
+          "name": "คลองถนน"
+        },
+        "postcode": "10220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003564",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33077",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.84585",
+      "longitude": "100.60260",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "ลาดพร้าว"
+        },
+        "subDistrict": {
+          "subDistrictId": 103802,
+          "name": "จรเข้บัว"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003565",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33078",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.65008",
+      "longitude": "100.59501",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1101,
+          "name": "เมืองสมุทรปราการ"
+        },
+        "subDistrict": {
+          "subDistrictId": 110102,
+          "name": "สำโรงเหนือ"
+        },
+        "postcode": "10270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003520",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33079",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "14.97445",
+      "longitude": "103.06835",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 572,
+          "name": "บุรีรัมย์"
+        },
+        "district": {
+          "districtId": 3101,
+          "name": "เมืองบุรีรัมย์"
+        },
+        "subDistrict": {
+          "subDistrictId": 310102,
+          "name": "อิสาณ"
+        },
+        "postcode": "31000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003518",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33080",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "14.98217",
+      "longitude": "100.01156",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 221,
+          "name": "ชัยนาท"
+        },
+        "district": {
+          "districtId": 1806,
+          "name": "หันคา"
+        },
+        "subDistrict": {
+          "subDistrictId": 180601,
+          "name": "หันคา"
+        },
+        "postcode": "17130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003480",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33081",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.76924",
+      "longitude": "100.64204",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "คลองจั่น"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003223",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33082",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.95495",
+      "longitude": "100.48709",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "ปทุมธานี"
+        },
+        "district": {
+          "districtId": 1301,
+          "name": "เมืองปทุมธานี"
+        },
+        "subDistrict": {
+          "subDistrictId": 130107,
+          "name": "บางคูวัด"
+        },
+        "postcode": "12000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003330",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33083",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.72166",
+      "longitude": "100.77772",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "ลาดกระบัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101101,
+          "name": "ลาดกระบัง"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003221",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33084",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "16.39012",
+      "longitude": "98.69417",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6307,
+          "name": "พบพระ"
+        },
+        "subDistrict": {
+          "subDistrictId": 630701,
+          "name": "พบพระ"
+        },
+        "postcode": "63160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003220",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33085",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "17.41388",
+      "longitude": "104.77840",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "นครพนม"
+        },
+        "district": {
+          "districtId": 4801,
+          "name": "เมืองนครพนม"
+        },
+        "subDistrict": {
+          "subDistrictId": 480101,
+          "name": "ในเมือง"
+        },
+        "postcode": "48000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003219",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33086",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "10.56208",
+      "longitude": "99.11542",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 343,
+          "name": "ชุมพร"
+        },
+        "district": {
+          "districtId": 8602,
+          "name": "ท่าแซะ"
+        },
+        "subDistrict": {
+          "subDistrictId": 860206,
+          "name": "ท่าข้าม"
+        },
+        "postcode": "86140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003218",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33087",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "7.53069",
+      "longitude": "99.57568",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 355,
+          "name": "ตรัง"
+        },
+        "district": {
+          "districtId": 9201,
+          "name": "เมืองตรัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 920107,
+          "name": "ควนปริง"
+        },
+        "postcode": "92000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003217",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33088",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "20.24558",
+      "longitude": "99.66129",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5715,
+          "name": "แม่ฟ้าหลวง"
+        },
+        "subDistrict": {
+          "subDistrictId": 571501,
+          "name": "เทอดไทย"
+        },
+        "postcode": "57240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003216",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33089",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "9.51599",
+      "longitude": "100.05425",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "บ่อผุด"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003215",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33090",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "16.01839",
+      "longitude": "98.86300",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6308,
+          "name": "อุ้มผาง"
+        },
+        "subDistrict": {
+          "subDistrictId": 630801,
+          "name": "อุ้มผาง"
+        },
+        "postcode": "63170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003213",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33091",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "15.07282",
+      "longitude": "100.71566",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "ลพบุรี"
+        },
+        "district": {
+          "districtId": 1603,
+          "name": "โคกสำโรง"
+        },
+        "subDistrict": {
+          "subDistrictId": 160301,
+          "name": "โคกสำโรง"
+        },
+        "postcode": "15120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003208",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33092",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "16.03870",
+      "longitude": "103.13271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 577,
+          "name": "มหาสารคาม"
+        },
+        "district": {
+          "districtId": 4406,
+          "name": "บรบือ"
+        },
+        "subDistrict": {
+          "subDistrictId": 440610,
+          "name": "หนองจิก"
+        },
+        "postcode": "44130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003206",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33093",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "17.87851",
+      "longitude": "101.65572",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003205",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33095",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "9.70337",
+      "longitude": "100.01380",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8405,
+          "name": "เกาะพะงัน"
+        },
+        "subDistrict": {
+          "subDistrictId": 840502,
+          "name": "บ้านใต้"
+        },
+        "postcode": "84280"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003203",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33096",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "17.89556",
+      "longitude": "101.66049",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003204",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33097",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.67749",
+      "longitude": "100.65043",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1032,
+          "name": "ประเวศ"
+        },
+        "subDistrict": {
+          "subDistrictId": 103202,
+          "name": "หนองบอน"
+        },
+        "postcode": "10250"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003147",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33098",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.80779",
+      "longitude": "100.63117",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "คลองจั่น"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003176",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33099",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.85960",
+      "longitude": "100.69587",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1046,
+          "name": "คลองสามวา"
+        },
+        "subDistrict": {
+          "subDistrictId": 104603,
+          "name": "บางชัน"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003146",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33100",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.71679",
+      "longitude": "100.48155",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1015,
+          "name": "ธนบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 101504,
+          "name": "บุคคโล"
+        },
+        "postcode": "10600"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003155",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33101",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.79190",
+      "longitude": "100.61867",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1045,
+          "name": "วังทองหลาง"
+        },
+        "subDistrict": {
+          "subDistrictId": 104503,
+          "name": "คลองเจ้าคุณสิงห์"
+        },
+        "postcode": "10310"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003145",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33102",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.70723",
+      "longitude": "100.37016",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1023,
+          "name": "หนองแขม"
+        },
+        "subDistrict": {
+          "subDistrictId": 102303,
+          "name": "หนองค้างพลู"
+        },
+        "postcode": "10160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003144",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33104",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.77709",
+      "longitude": "100.47788",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1020,
+          "name": "บางกอกน้อย"
+        },
+        "subDistrict": {
+          "subDistrictId": 102009,
+          "name": "อรุณอมรินทร์"
+        },
+        "postcode": "10700"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003143",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33105",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.84336",
+      "longitude": "100.61984",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "ลาดพร้าว"
+        },
+        "subDistrict": {
+          "subDistrictId": 103802,
+          "name": "จรเข้บัว"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003139",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33106",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.74234",
+      "longitude": "100.55368",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "วัฒนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 103901,
+          "name": "คลองเตยเหนือ"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003138",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33107",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.68008",
+      "longitude": "100.63680",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1009,
+          "name": "พระโขนง"
+        },
+        "subDistrict": {
+          "subDistrictId": 100905,
+          "name": "บางจาก"
+        },
+        "postcode": "10260"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003136",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33108",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.82096",
+      "longitude": "100.60929",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "ลาดพร้าว"
+        },
+        "subDistrict": {
+          "subDistrictId": 103801,
+          "name": "ลาดพร้าว"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003137",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33109",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.91966",
+      "longitude": "100.68451",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1042,
+          "name": "สายไหม"
+        },
+        "subDistrict": {
+          "subDistrictId": 104201,
+          "name": "สายไหม"
+        },
+        "postcode": "10220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003135",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33110",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.84760",
+      "longitude": "100.51440",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "เมืองนนทบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 120102,
+          "name": "ตลาดขวัญ"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003132",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33111",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.70881",
+      "longitude": "100.53154",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1028,
+          "name": "สาทร"
+        },
+        "subDistrict": {
+          "subDistrictId": 102801,
+          "name": "ทุ่งวัดดอน"
+        },
+        "postcode": "10120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003134",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33112",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.69204",
+      "longitude": "100.63972",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1032,
+          "name": "ประเวศ"
+        },
+        "subDistrict": {
+          "subDistrictId": 103202,
+          "name": "หนองบอน"
+        },
+        "postcode": "10250"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003133",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33113",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.87664",
+      "longitude": "100.50303",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "เมืองนนทบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 120105,
+          "name": "ท่าทราย"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003131",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33114",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.80096",
+      "longitude": "100.71895",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1010,
+          "name": "มีนบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 101001,
+          "name": "มีนบุรี"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003130",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33115",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.74366",
+      "longitude": "100.55432",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "วัฒนา"
+        },
+        "subDistrict": {
+          "subDistrictId": 103901,
+          "name": "คลองเตยเหนือ"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003128",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33116",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.67175",
+      "longitude": "100.49744",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1024,
+          "name": "ราษฎร์บูรณะ"
+        },
+        "subDistrict": {
+          "subDistrictId": 102402,
+          "name": "บางปะกอก"
+        },
+        "postcode": "10140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003129",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33117",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.87479",
+      "longitude": "100.45490",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "เมืองนนทบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 120110,
+          "name": "บางรักน้อย"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003121",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33118",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.74961",
+      "longitude": "100.55621",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "ราชเทวี"
+        },
+        "subDistrict": {
+          "subDistrictId": 103704,
+          "name": "มักกะสัน"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003120",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33120",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.74525",
+      "longitude": "100.53505",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1007,
+          "name": "ปทุมวัน"
+        },
+        "subDistrict": {
+          "subDistrictId": 100703,
+          "name": "ปทุมวัน"
+        },
+        "postcode": "10330"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003119",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33121",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.70877",
+      "longitude": "100.56431",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "คลองเตย"
+        },
+        "subDistrict": {
+          "subDistrictId": 103301,
+          "name": "คลองเตย"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003118",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33122",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.88133",
+      "longitude": "100.43351",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "บางบัวทอง"
+        },
+        "subDistrict": {
+          "subDistrictId": 120408,
+          "name": "บางรักพัฒนา"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003117",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33123",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.89245",
+      "longitude": "100.44968",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1206,
+          "name": "ปากเกร็ด"
+        },
+        "subDistrict": {
+          "subDistrictId": 120607,
+          "name": "ท่าอิฐ"
+        },
+        "postcode": "11120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003116",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33124",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75506",
+      "longitude": "100.62888",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100608,
+          "name": "หัวหมาก"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003111",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33125",
+      "status": "approved",
+      "name": "645 โชว์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.68667",
+      "longitude": "100.52379",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1012,
+          "name": "ยานนาวา"
+        },
+        "subDistrict": {
+          "subDistrictId": 101204,
+          "name": "บางโพงพาง"
+        },
+        "postcode": "10120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006535",
+      "viewer": 4,
+      "slug": "645-โชว์"
+    },
+    {
+      "placeId": "33126",
+      "status": "approved",
+      "name": "เซเว่นอีเลฟเว่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.75945",
+      "longitude": "100.50271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "พระนคร"
+        },
+        "subDistrict": {
+          "subDistrictId": 100107,
+          "name": "บวรนิเวศ"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003109",
+      "viewer": 4,
+      "slug": "เซเว่นอีเลฟเว่น"
+    },
+    {
+      "placeId": "33128",
+      "status": "approved",
+      "name": "สวน 60 พรรษามหาราชินี",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "15.15634",
+      "longitude": "98.45119",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 222,
+          "name": "กาญจนบุรี"
+        },
+        "district": {
+          "districtId": 7108,
+          "name": "สังขละบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 710801,
+          "name": "หนองลู"
+        },
+        "postcode": "71240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002497",
+      "viewer": 4,
+      "slug": "สวน-60-พรรษามหาราชินี"
+    },
+    {
+      "placeId": "33129",
+      "status": "approved",
+      "name": "60 ทับ 1",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.61390",
+      "longitude": "101.24294",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 220,
+          "name": "ฉะเชิงเทรา"
+        },
+        "district": {
+          "districtId": 2409,
+          "name": "แปลงยาว"
+        },
+        "subDistrict": {
+          "subDistrictId": 240901,
+          "name": "แปลงยาว"
+        },
+        "postcode": "24190"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007439",
+      "viewer": 5,
+      "slug": "60-ทับ-1"
+    },
+    {
+      "placeId": "33131",
+      "status": "approved",
+      "name": "56 เรสเทอรองต์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.55932",
+      "longitude": "100.02552",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "บ่อผุด"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008081",
+      "viewer": 5,
+      "slug": "56-เรสเทอรองต์"
+    },
+    {
+      "placeId": "33132",
+      "status": "approved",
+      "name": "60 บุฟเฟต์เนื้อย่างเกาหลี",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.63000",
+      "longitude": "102.78085",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 572,
+          "name": "บุรีรัมย์"
+        },
+        "district": {
+          "districtId": 3104,
+          "name": "นางรอง"
+        },
+        "subDistrict": {
+          "subDistrictId": 310401,
+          "name": "นางรอง"
+        },
+        "postcode": "31110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006861",
+      "viewer": 6,
+      "slug": "60-บุฟเฟต์เนื้อย่างเกาหลี"
+    },
+    {
+      "placeId": "33135",
+      "status": "approved",
+      "name": "555 โฮมสเตย์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.88974",
+      "longitude": "101.65182",
+      "location": {
+        "address": "ซอยศรีเชียงคาน 5",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000842",
+      "viewer": 4,
+      "slug": "555-โฮมสเตย์"
+    },
+    {
+      "placeId": "33136",
+      "status": "approved",
+      "name": "505 สเต็กเฮ้าส์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.84999",
+      "longitude": "101.82907",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "นครราชสีมา"
+        },
+        "district": {
+          "districtId": 3018,
+          "name": "สูงเนิน"
+        },
+        "subDistrict": {
+          "subDistrictId": 301801,
+          "name": "สูงเนิน"
+        },
+        "postcode": "30170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006989",
+      "viewer": 5,
+      "slug": "505-สเต็กเฮ้าส์"
+    },
+    {
+      "placeId": "33137",
+      "status": "approved",
+      "name": "5.10.1000 โฮมสเตย์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.89237",
+      "longitude": "101.65143",
+      "location": {
+        "address": "124 ทางหลวงแผ่นดินหมายเลข 2195",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000700",
+      "viewer": 4,
+      "slug": "5-10-1000-โฮมสเตย์"
+    },
+    {
+      "placeId": "33141",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยว 42",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "16.87460",
+      "longitude": "99.12255",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6301,
+          "name": "เมืองตาก"
+        },
+        "subDistrict": {
+          "subDistrictId": 630102,
+          "name": "หนองหลวง"
+        },
+        "postcode": "63000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006346",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยว-42"
+    },
+    {
+      "placeId": "33145",
+      "status": "approved",
+      "name": "โรงภาพยนตร์ 3 มิติ",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "12.92959",
+      "longitude": "100.87788",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "ชลบุรี"
+        },
+        "district": {
+          "districtId": 2004,
+          "name": "บางละมุง"
+        },
+        "subDistrict": {
+          "subDistrictId": 200402,
+          "name": "หนองปรือ"
+        },
+        "postcode": "20150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01001785",
+      "viewer": 4,
+      "slug": "โรงภาพยนตร์-3-มิติ"
+    },
+    {
+      "placeId": "33147",
+      "status": "approved",
+      "name": "สวนน้ำ 360 องศา",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "8.23970",
+      "longitude": "98.30096",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 348,
+          "name": "พังงา"
+        },
+        "district": {
+          "districtId": 8204,
+          "name": "ตะกั่วทุ่ง"
+        },
+        "subDistrict": {
+          "subDistrictId": 820406,
+          "name": "โคกกลอย"
+        },
+        "postcode": "82140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002707",
+      "viewer": 4,
+      "slug": "สวนน้ำ-360-องศา"
+    },
+    {
+      "placeId": "33151",
+      "status": "approved",
+      "name": "333 คอฟฟี่",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "16.82871",
+      "longitude": "98.59756",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6306,
+          "name": "แม่สอด"
+        },
+        "subDistrict": {
+          "subDistrictId": 630605,
+          "name": "แม่กาษา"
+        },
+        "postcode": "63110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007675",
+      "viewer": 5,
+      "slug": "333-คอฟฟี่"
+    },
+    {
+      "placeId": "33154",
+      "status": "approved",
+      "name": "33 ซีฟูดส์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.79490",
+      "longitude": "100.63436",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "ลพบุรี"
+        },
+        "district": {
+          "districtId": 1601,
+          "name": "เมืองลพบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 160101,
+          "name": "ทะเลชุบศร"
+        },
+        "postcode": "15000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009077",
+      "viewer": 5,
+      "slug": "33-ซีฟูดส์"
+    },
+    {
+      "placeId": "33157",
+      "status": "approved",
+      "name": "ไทเลย 300 ปีรีสอร์ท",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.44238",
+      "longitude": "101.36321",
+      "location": {
+        "address": "77 ทางหลวงชนบท ลย. 3008",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4207,
+          "name": "ภูเรือ"
+        },
+        "subDistrict": {
+          "subDistrictId": 420701,
+          "name": "หนองบัว"
+        },
+        "postcode": "42160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000908",
+      "viewer": 4,
+      "slug": "ไทเลย-300-ปีรีสอร์ท"
+    },
+    {
+      "placeId": "33159",
+      "status": "approved",
+      "name": "3 ป. หมูสเต๊ะ",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.07041",
+      "longitude": "100.52452",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "ปทุมธานี"
+        },
+        "district": {
+          "districtId": 1307,
+          "name": "สามโคก"
+        },
+        "subDistrict": {
+          "subDistrictId": 130701,
+          "name": "บางเตย"
+        },
+        "postcode": "12160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007338",
+      "viewer": 5,
+      "slug": "3-ป-หมูสเต๊ะ"
+    },
+    {
+      "placeId": "33160",
+      "status": "approved",
+      "name": "ร้านอาหาร 3 รส",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "20.27612",
+      "longitude": "99.86395",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5709,
+          "name": "แม่สาย"
+        },
+        "subDistrict": {
+          "subDistrictId": 570902,
+          "name": "ห้วยไคร้"
+        },
+        "postcode": "57220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007836",
+      "viewer": 5,
+      "slug": "ร้านอาหาร-3-รส"
+    },
+    {
+      "placeId": "33163",
+      "status": "approved",
+      "name": "2 ทีรีสอร์ท",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.00883",
+      "longitude": "104.69079",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "นครพนม"
+        },
+        "district": {
+          "districtId": 4806,
+          "name": "เรณูนคร"
+        },
+        "subDistrict": {
+          "subDistrictId": 480607,
+          "name": "หนองย่างชิ้น"
+        },
+        "postcode": "48170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000370",
+      "viewer": 4,
+      "slug": "2-ทีรีสอร์ท"
+    },
+    {
+      "placeId": "33165",
+      "status": "approved",
+      "name": "2 เอ็นคอฟฟี่",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.79237",
+      "longitude": "100.42856",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1019,
+          "name": "ตลิ่งชัน"
+        },
+        "subDistrict": {
+          "subDistrictId": 101903,
+          "name": "ฉิมพลี"
+        },
+        "postcode": "10170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005223",
+      "viewer": 4,
+      "slug": "2-เอ็นคอฟฟี่"
+    },
+    {
+      "placeId": "33166",
+      "status": "approved",
+      "name": "โรงยิม 2500 ที่นั่ง องค์การบริหารส่วนจังหวัดพิษณุโ",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "16.84647",
+      "longitude": "100.26104",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 112,
+          "name": "พิษณุโลก"
+        },
+        "district": {
+          "districtId": 6501,
+          "name": "เมืองพิษณุโลก"
+        },
+        "subDistrict": {
+          "subDistrictId": 650111,
+          "name": "หัวรอ"
+        },
+        "postcode": "65000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002773",
+      "viewer": 4,
+      "slug": "โรงยิม-2500-ที่นั่ง-องค์การบริหารส่วนจังหวัดพิษณุโ"
+    },
+    {
+      "placeId": "33171",
+      "status": "approved",
+      "name": "อเดลฟีสวีท",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": {
+        "name": "อเดลฟี่ สวีท",
+        "detail": null,
+        "detailThumbnail": "https://dmc.tatdataapi.io/assets/85486d52-ed4a-4fae-ab2d-7d9e67ef7eca.jpg",
+        "detailPicture": [
+          "https://dmc.tatdataapi.io/assets/564508bb-bd40-4ea9-83af-ba32f52e3aa5.jpg",
+          "https://dmc.tatdataapi.io/assets/7b0e10fa-817b-40a1-aae7-8e37663c9667.jpg",
+          "https://dmc.tatdataapi.io/assets/77de495a-341c-4420-8bc5-70cc1ce573dc.jpg",
+          "https://dmc.tatdataapi.io/assets/9fd00fe5-fce1-4c7f-a2cd-20bc06a35e5e.jpg",
+          "https://dmc.tatdataapi.io/assets/ee101525-1aa2-4e74-a7a8-d26908352efd.jpg"
+        ],
+        "thumbnailUrl": "https://dmc.tatdataapi.io/assets/995f0bc3-c3b9-474b-aad8-17971ed1145c.jpeg",
+        "type": {
+          "typeId": 2,
+          "name": "โรงแรมและที่พัก สถานที่จัดการประชุม"
+        },
+        "category": {
+          "categoryId": 3,
+          "name": "SHA Extra+",
+          "icon": "https://dmc.tatdataapi.io/assets/995f0bc3-c3b9-474b-aad8-17971ed1145c.jpeg"
+        }
+      },
+      "latitude": "13.73891",
+      "longitude": "100.55582",
+      "location": {
+        "address": "6 ซอยสุขุมวิท 8",
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "คลองเตย"
+        },
+        "subDistrict": {
+          "subDistrictId": 103301,
+          "name": "คลองเตย"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [
+        "https://dmc.tatdataapi.io/assets/b079cf69-bfce-4edd-9f60-bcfc6351563b.jpg"
+      ],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001368",
+      "viewer": 4,
+      "slug": "อเดลฟีสวีท"
+    },
+    {
+      "placeId": "33173",
+      "status": "approved",
+      "name": "21 ลิฟวิ่งเพลส",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.76140",
+      "longitude": "100.53907",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "ราชเทวี"
+        },
+        "subDistrict": {
+          "subDistrictId": 103702,
+          "name": "ถนนพญาไท"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003526",
+      "viewer": 4,
+      "slug": "21-ลิฟวิ่งเพลส"
+    },
+    {
+      "placeId": "33176",
+      "status": "approved",
+      "name": "2 สาม 9",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.89630",
+      "longitude": "101.67345",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000217",
+      "viewer": 4,
+      "slug": "2-สาม-9"
+    },
+    {
+      "placeId": "33177",
+      "status": "approved",
+      "name": "2 มิลเลี่ยนคอฟฟี่",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "17.37400",
+      "longitude": "104.78856",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "นครพนม"
+        },
+        "district": {
+          "districtId": 4801,
+          "name": "เมืองนครพนม"
+        },
+        "subDistrict": {
+          "subDistrictId": 480101,
+          "name": "ในเมือง"
+        },
+        "postcode": "48000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008414",
+      "viewer": 5,
+      "slug": "2-มิลเลี่ยนคอฟฟี่"
+    },
+    {
+      "placeId": "33181",
+      "status": "approved",
+      "name": "189 รีสอร์ท",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "13.65125",
+      "longitude": "100.61165",
+      "location": {
+        "address": "ซอยแบริ่ง 30",
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1101,
+          "name": "เมืองสมุทรปราการ"
+        },
+        "subDistrict": {
+          "subDistrictId": 110102,
+          "name": "สำโรงเหนือ"
+        },
+        "postcode": "10270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001242",
+      "viewer": 4,
+      "slug": "189-รีสอร์ท"
+    },
+    {
+      "placeId": "33182",
+      "status": "approved",
+      "name": "ข้าวมันไก่ 18 มงกุฎ",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.77751",
+      "longitude": "100.79753",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "ลาดกระบัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101104,
+          "name": "ลำปลาทิว"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006395",
+      "viewer": 4,
+      "slug": "ข้าวมันไก่-18-มงกุฎ"
+    },
+    {
+      "placeId": "33183",
+      "status": "approved",
+      "name": "18 บีโลว์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.57005",
+      "longitude": "100.06059",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "บ่อผุด"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006153",
+      "viewer": 5,
+      "slug": "18-บีโลว์"
+    },
+    {
+      "placeId": "33184",
+      "status": "approved",
+      "name": "ค่ายมวย 15 ศิษย์ฮวน",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.67755",
+      "longitude": "102.54956",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 233,
+          "name": "สระแก้ว"
+        },
+        "district": {
+          "districtId": 2706,
+          "name": "อรัญประเทศ"
+        },
+        "subDistrict": {
+          "subDistrictId": 270606,
+          "name": "ป่าไร่"
+        },
+        "postcode": "27120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01001861",
+      "viewer": 4,
+      "slug": "ค่ายมวย-15-ศิษย์ฮวน"
+    },
+    {
+      "placeId": "33187",
+      "status": "approved",
+      "name": "อาหารไทย 147",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.75798",
+      "longitude": "100.49916",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "พระนคร"
+        },
+        "subDistrict": {
+          "subDistrictId": 100107,
+          "name": "บวรนิเวศ"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003857",
+      "viewer": 4,
+      "slug": "อาหารไทย-147"
+    },
+    {
+      "placeId": "33190",
+      "status": "approved",
+      "name": "14 โฮมสเตย์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.89580",
+      "longitude": "101.65656",
+      "location": {
+        "address": "152/1 ซอยศรีเชียงคาน 14",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000801",
+      "viewer": 4,
+      "slug": "14-โฮมสเตย์"
+    },
+    {
+      "placeId": "33191",
+      "status": "approved",
+      "name": "ข้าวมันไก่ 136",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.77056",
+      "longitude": "100.63676",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "คลองจั่น"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006183",
+      "viewer": 4,
+      "slug": "ข้าวมันไก่-136"
+    },
+    {
+      "placeId": "33196",
+      "status": "approved",
+      "name": "โรงแรม 13 เหรียญ",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "13.94296",
+      "longitude": "100.54376",
+      "location": {
+        "address": "9/99 หมู่ 3 ซอยหมู่บ้านประดับศุข 1",
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1206,
+          "name": "ปากเกร็ด"
+        },
+        "subDistrict": {
+          "subDistrictId": 120603,
+          "name": "บ้านใหม่"
+        },
+        "postcode": "11120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001391",
+      "viewer": 4,
+      "slug": "โรงแรม-13-เหรียญ"
+    },
+    {
+      "placeId": "33197",
+      "status": "approved",
+      "name": "13 คอยน์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "13.87531",
+      "longitude": "100.41452",
+      "location": {
+        "address": "56/2 หมู่ 6 ซอยหมู่บ้านรัตนาธิเบศร์",
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1203,
+          "name": "บางใหญ่"
+        },
+        "subDistrict": {
+          "subDistrictId": 120304,
+          "name": "เสาธงหิน"
+        },
+        "postcode": "11140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001389",
+      "viewer": 4,
+      "slug": "13-คอยน์"
+    },
+    {
+      "placeId": "33199",
+      "status": "approved",
+      "name": "12 อร่อยซาลาเปา (2490)",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.75370",
+      "longitude": "100.50014",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "พระนคร"
+        },
+        "subDistrict": {
+          "subDistrictId": 100106,
+          "name": "เสาชิงช้า"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004235",
+      "viewer": 4,
+      "slug": "12-อร่อยซาลาเปา-(2490)"
+    },
+    {
+      "placeId": "33200",
+      "status": "approved",
+      "name": "103 พลัสแฟคตอรี่",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.78315",
+      "longitude": "100.54295",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1014,
+          "name": "พญาไท"
+        },
+        "subDistrict": {
+          "subDistrictId": 101406,
+          "name": "พญาไท"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006469",
+      "viewer": 4,
+      "slug": "103-พลัสแฟคตอรี่"
+    },
+    {
+      "placeId": "33203",
+      "status": "approved",
+      "name": "1000 สุกฟูดฟันฟาร์ม",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "12.85905",
+      "longitude": "99.92150",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 228,
+          "name": "เพชรบุรี"
+        },
+        "district": {
+          "districtId": 7604,
+          "name": "ชะอำ"
+        },
+        "subDistrict": {
+          "subDistrictId": 760409,
+          "name": "ดอนขุนห้วย"
+        },
+        "postcode": "76120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009129",
+      "viewer": 5,
+      "slug": "1000-สุกฟูดฟันฟาร์ม"
+    },
+    {
+      "placeId": "33205",
+      "status": "approved",
+      "name": "ร้าน 1000 ล้านลาบยโส",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.72158",
+      "longitude": "100.76805",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "ลาดกระบัง"
+        },
+        "subDistrict": {
+          "subDistrictId": 101101,
+          "name": "ลาดกระบัง"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006372",
+      "viewer": 4,
+      "slug": "ร้าน-1000-ล้านลาบยโส"
+    },
+    {
+      "placeId": "33206",
+      "status": "approved",
+      "name": "กาแฟสด 100%",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.64576",
+      "longitude": "100.43177",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1021,
+          "name": "บางขุนเทียน"
+        },
+        "subDistrict": {
+          "subDistrictId": 102107,
+          "name": "แสมดำ"
+        },
+        "postcode": "10150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004315",
+      "viewer": 4,
+      "slug": "กาแฟสด-100%"
+    },
+    {
+      "placeId": "33210",
+      "status": "approved",
+      "name": "100 ไอซ์แลนด์สคอฟฟี่บาร์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.70769",
+      "longitude": "100.00633",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8405,
+          "name": "เกาะพะงัน"
+        },
+        "subDistrict": {
+          "subDistrictId": 840502,
+          "name": "บ้านใต้"
+        },
+        "postcode": "84280"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007638",
+      "viewer": 5,
+      "slug": "100-ไอซ์แลนด์สคอฟฟี่บาร์"
+    },
+    {
+      "placeId": "33212",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยวเรือ 10 บาท สาขา 2",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.07770",
+      "longitude": "99.36656",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8401,
+          "name": "เมืองสุราษฎร์ธานี"
+        },
+        "subDistrict": {
+          "subDistrictId": 840104,
+          "name": "ขุนทะเล"
+        },
+        "postcode": "84100"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008737",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยวเรือ-10-บาท-สาขา-2"
+    },
+    {
+      "placeId": "33213",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยวหมูต้มยำ 1 บวก 1",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.93651",
+      "longitude": "102.13455",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "นครราชสีมา"
+        },
+        "district": {
+          "districtId": 3001,
+          "name": "เมืองนครราชสีมา"
+        },
+        "subDistrict": {
+          "subDistrictId": 300119,
+          "name": "หนองบัวศาลา"
+        },
+        "postcode": "30000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006918",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยวหมูต้มยำ-1-บวก-1"
+    },
+    {
+      "placeId": "33693",
+      "status": "approved",
+      "name": "บ้านชไมพร",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "9.14334",
+      "longitude": "99.17005",
+      "location": {
+        "address": "ทางหลวงแผ่นดินหมายเลข 4112",
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8417,
+          "name": "พุนพิน"
+        },
+        "subDistrict": {
+          "subDistrictId": 841713,
+          "name": "หัวเตย"
+        },
+        "postcode": "84130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000724",
+      "viewer": 4,
+      "slug": "บ้านชไมพร"
+    },
+    {
+      "placeId": "33694",
+      "status": "approved",
+      "name": "อ่างเก็บน้ำบ้านชากนา",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.06427",
+      "longitude": "101.45442",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "ชลบุรี"
+        },
+        "district": {
+          "districtId": 2003,
+          "name": "หนองใหญ่"
+        },
+        "subDistrict": {
+          "subDistrictId": 200305,
+          "name": "เขาซก"
+        },
+        "postcode": "20190"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003993",
+      "viewer": 4,
+      "slug": "อ่างเก็บน้ำบ้านชากนา"
+    },
+    {
+      "placeId": "33699",
+      "status": "approved",
+      "name": "บ้านใจดีเกสท์เฮ้าส์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "12.24268",
+      "longitude": "102.51336",
+      "location": {
+        "address": "67-69 ถนนชัยมงคล",
+        "province": {
+          "provinceId": 466,
+          "name": "ตราด"
+        },
+        "district": {
+          "districtId": 2301,
+          "name": "เมืองตราด"
+        },
+        "subDistrict": {
+          "subDistrictId": 230101,
+          "name": "บางพระ"
+        },
+        "postcode": "23000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001267",
+      "viewer": 4,
+      "slug": "บ้านใจดีเกสท์เฮ้าส์"
+    },
+    {
+      "placeId": "33700",
+      "status": "approved",
+      "name": "อ่างเก็บน้ำบ้านชัยเจริญ",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "16.12985",
+      "longitude": "101.54456",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 573,
+          "name": "ชัยภูมิ"
+        },
+        "district": {
+          "districtId": 3605,
+          "name": "หนองบัวแดง"
+        },
+        "subDistrict": {
+          "subDistrictId": 360511,
+          "name": "วังชมภู"
+        },
+        "postcode": "36210"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003856",
+      "viewer": 4,
+      "slug": "อ่างเก็บน้ำบ้านชัยเจริญ"
+    },
+    {
+      "placeId": "33701",
+      "status": "approved",
+      "name": "สวนอาหารบ้านจ่าเปี๊ยก",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.64561",
+      "longitude": "100.44885",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1021,
+          "name": "บางขุนเทียน"
+        },
+        "subDistrict": {
+          "subDistrictId": 102105,
+          "name": "ท่าข้าม"
+        },
+        "postcode": "10150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005124",
+      "viewer": 4,
+      "slug": "สวนอาหารบ้านจ่าเปี๊ยก"
+    },
+    {
+      "placeId": "33706",
+      "status": "approved",
+      "name": "บ้านแคท",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "15.58868",
+      "longitude": "102.42180",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "นครราชสีมา"
+        },
+        "district": {
+          "districtId": 3012,
+          "name": "บัวใหญ่"
+        },
+        "subDistrict": {
+          "subDistrictId": 301201,
+          "name": "บัวใหญ่"
+        },
+        "postcode": "30120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006354",
+      "viewer": 5,
+      "slug": "บ้านแคท"
+    },
+    {
+      "placeId": "33711",
+      "status": "approved",
+      "name": "บ้านเค้กแม่บุญ",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "20.30614",
+      "longitude": "100.21717",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5708,
+          "name": "เชียงแสน"
+        },
+        "subDistrict": {
+          "subDistrictId": 570805,
+          "name": "แม่เงิน"
+        },
+        "postcode": "57150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007838",
+      "viewer": 5,
+      "slug": "บ้านเค้กแม่บุญ"
+    },
+    {
+      "placeId": "33714",
+      "status": "approved",
+      "name": "บ้านเค้กแอทสมุย",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.54100",
+      "longitude": "100.04042",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "บ่อผุด"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008101",
+      "viewer": 5,
+      "slug": "บ้านเค้กแอทสมุย"
+    },
+    {
+      "placeId": "33715",
+      "status": "approved",
+      "name": "บ้านเค้กเบเกอรี่",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "9.56681",
+      "longitude": "99.99987",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "สุราษฎร์ธานี"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "เกาะสมุย"
+        },
+        "subDistrict": {
+          "subDistrictId": 840407,
+          "name": "แม่น้ำ"
+        },
+        "postcode": "84330"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008388",
+      "viewer": 5,
+      "slug": "บ้านเค้กเบเกอรี่"
+    },
+    {
+      "placeId": "33716",
+      "status": "approved",
+      "name": "บ้านเค้ก",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "20.19028",
+      "longitude": "100.22532",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5708,
+          "name": "เชียงแสน"
+        },
+        "subDistrict": {
+          "subDistrictId": 570803,
+          "name": "บ้านแซว"
+        },
+        "postcode": "57150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007845",
+      "viewer": 5,
+      "slug": "บ้านเค้ก"
+    },
+    {
+      "placeId": "33719",
+      "status": "approved",
+      "name": "สวนอาหารบุญยงค์",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.88992",
+      "longitude": "100.41222",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 238,
+          "name": "สิงห์บุรี"
+        },
+        "district": {
+          "districtId": 1701,
+          "name": "เมืองสิงห์บุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 170102,
+          "name": "บางมัญ"
+        },
+        "postcode": "16000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006637",
+      "viewer": 5,
+      "slug": "สวนอาหารบุญยงค์"
+    },
+    {
+      "placeId": "33721",
+      "status": "approved",
+      "name": "บ้านบุญคุ้มนางพญา",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "18.68780",
+      "longitude": "98.93551",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 101,
+          "name": "เชียงใหม่"
+        },
+        "district": {
+          "districtId": 5015,
+          "name": "หางดง"
+        },
+        "subDistrict": {
+          "subDistrictId": 501502,
+          "name": "หนองแก๋ว"
+        },
+        "postcode": "50230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003073",
+      "viewer": 4,
+      "slug": "บ้านบุญคุ้มนางพญา"
+    },
+    {
+      "placeId": "33724",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยวหมู-เย็นตาโฟบ้านบึง",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.01284",
+      "longitude": "100.71915",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "ปทุมธานี"
+        },
+        "district": {
+          "districtId": 1303,
+          "name": "ธัญบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 130303,
+          "name": "รังสิต"
+        },
+        "postcode": "12110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006693",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยวหมู-เย็นตาโฟบ้านบึง"
+    },
+    {
+      "placeId": "33725",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยวหมูบ้านบึง",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.33100",
+      "longitude": "100.98356",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "ชลบุรี"
+        },
+        "district": {
+          "districtId": 2001,
+          "name": "เมืองชลบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 200115,
+          "name": "ห้วยกะปิ"
+        },
+        "postcode": "20000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007477",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยวหมูบ้านบึง"
+    },
+    {
+      "placeId": "33727",
+      "status": "approved",
+      "name": "บ้านบึงชลบุรีก๋วยเตี๋ยวหมู-ปลา",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "15.69882",
+      "longitude": "100.12553",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 107,
+          "name": "นครสวรรค์"
+        },
+        "district": {
+          "districtId": 6001,
+          "name": "เมืองนครสวรรค์"
+        },
+        "subDistrict": {
+          "subDistrictId": 600101,
+          "name": "ปากน้ำโพ"
+        },
+        "postcode": "60000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08002805",
+      "viewer": 5,
+      "slug": "บ้านบึงชลบุรีก๋วยเตี๋ยวหมู-ปลา"
+    },
+    {
+      "placeId": "33728",
+      "status": "approved",
+      "name": "สนามแบดมินตันบ้านบัวทอง",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.89405",
+      "longitude": "100.40366",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "บางบัวทอง"
+        },
+        "subDistrict": {
+          "subDistrictId": 120408,
+          "name": "บางรักพัฒนา"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002045",
+      "viewer": 4,
+      "slug": "สนามแบดมินตันบ้านบัวทอง"
+    },
+    {
+      "placeId": "33739",
+      "status": "approved",
+      "name": "ราดหน้ายอดผักบ้านบดินทร์ สาขา 2",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.78018",
+      "longitude": "100.64272",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "บางกะปิ"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "คลองจั่น"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004473",
+      "viewer": 4,
+      "slug": "ราดหน้ายอดผักบ้านบดินทร์-สาขา-2"
+    },
+    {
+      "placeId": "33743",
+      "status": "approved",
+      "name": "ร้านบ้านเบญ",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "16.71686",
+      "longitude": "98.57132",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6306,
+          "name": "แม่สอด"
+        },
+        "subDistrict": {
+          "subDistrictId": 630601,
+          "name": "แม่สอด"
+        },
+        "postcode": "63110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008067",
+      "viewer": 5,
+      "slug": "ร้านบ้านเบญ"
+    },
+    {
+      "placeId": "33759",
+      "status": "approved",
+      "name": "ตำนานอาหารป่าบ้านบางเหี้ย",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.54347",
+      "longitude": "100.81492",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1102,
+          "name": "บางบ่อ"
+        },
+        "subDistrict": {
+          "subDistrictId": 110204,
+          "name": "บางเพรียง"
+        },
+        "postcode": "10560"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007296",
+      "viewer": 5,
+      "slug": "ตำนานอาหารป่าบ้านบางเหี้ย"
+    },
+    {
+      "placeId": "33762",
+      "status": "approved",
+      "name": "ก๋วยเตี๋ยวบ้านใบขิง",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "19.68151",
+      "longitude": "100.20271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5704,
+          "name": "เทิง"
+        },
+        "subDistrict": {
+          "subDistrictId": 570401,
+          "name": "เวียง"
+        },
+        "postcode": "57160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003424",
+      "viewer": 5,
+      "slug": "ก๋วยเตี๋ยวบ้านใบขิง"
+    },
+    {
+      "placeId": "33763",
+      "status": "approved",
+      "name": "ร้านอาหารบ้านใบ",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "16.67275",
+      "longitude": "99.58927",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 103,
+          "name": "กำแพงเพชร"
+        },
+        "district": {
+          "districtId": 6206,
+          "name": "พรานกระต่าย"
+        },
+        "subDistrict": {
+          "subDistrictId": 620601,
+          "name": "พรานกระต่าย"
+        },
+        "postcode": "62110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008214",
+      "viewer": 5,
+      "slug": "ร้านอาหารบ้านใบ"
+    },
+    {
+      "placeId": "33766",
+      "status": "approved",
+      "name": "บ้านใบบุญโฮมสเตย์",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.89598",
+      "longitude": "101.65643",
+      "location": {
+        "address": "ถนนชายโขง",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000531",
+      "viewer": 4,
+      "slug": "บ้านใบบุญโฮมสเตย์"
+    },
+    {
+      "placeId": "33774",
+      "status": "approved",
+      "name": "บ้านอำนวยพร",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "17.89113",
+      "longitude": "101.65504",
+      "location": {
+        "address": "175/2 ซอยศรีเชียงคาน 22",
+        "province": {
+          "provinceId": 576,
+          "name": "เลย"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "เชียงคาน"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "เชียงคาน"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000315",
+      "viewer": 4,
+      "slug": "บ้านอำนวยพร"
+    },
+    {
+      "placeId": "33775",
+      "status": "approved",
+      "name": "บ้านไอ-ติม",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.80018",
+      "longitude": "100.43883",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "นนทบุรี"
+        },
+        "district": {
+          "districtId": 1202,
+          "name": "บางกรวย"
+        },
+        "subDistrict": {
+          "subDistrictId": 120207,
+          "name": "มหาสวัสดิ์"
+        },
+        "postcode": "11130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007276",
+      "viewer": 6,
+      "slug": "บ้านไอ-ติม"
+    },
+    {
+      "placeId": "33776",
+      "status": "approved",
+      "name": "บ้านไออุ่นกาแฟสด",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.98502",
+      "longitude": "102.09725",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "นครราชสีมา"
+        },
+        "district": {
+          "districtId": 3001,
+          "name": "เมืองนครราชสีมา"
+        },
+        "subDistrict": {
+          "subDistrictId": 300101,
+          "name": "ในเมือง"
+        },
+        "postcode": "30000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006886",
+      "viewer": 5,
+      "slug": "บ้านไออุ่นกาแฟสด"
+    },
+    {
+      "placeId": "33777",
+      "status": "approved",
+      "name": "บ้านไออุ่น",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "20.16640",
+      "longitude": "99.62574",
+      "location": {
+        "address": "ทางหลวงแผ่นดินหมายเลข 1234",
+        "province": {
+          "provinceId": 102,
+          "name": "เชียงราย"
+        },
+        "district": {
+          "districtId": 5715,
+          "name": "แม่ฟ้าหลวง"
+        },
+        "subDistrict": {
+          "subDistrictId": 571503,
+          "name": "แม่สลองนอก"
+        },
+        "postcode": "57110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001170",
+      "viewer": 4,
+      "slug": "บ้านไออุ่น"
+    },
+    {
+      "placeId": "33779",
+      "status": "approved",
+      "name": "บ้านอาหารไทย",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "13.64653",
+      "longitude": "100.68046",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "สมุทรปราการ"
+        },
+        "district": {
+          "districtId": 1103,
+          "name": "บางพลี"
+        },
+        "subDistrict": {
+          "subDistrictId": 110302,
+          "name": "บางแก้ว"
+        },
+        "postcode": "10540"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003204",
+      "viewer": 5,
+      "slug": "บ้านอาหารไทย"
+    },
+    {
+      "placeId": "33782",
+      "status": "approved",
+      "name": "บ้านอาม่า",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "16.86846",
+      "longitude": "99.13754",
+      "location": {
+        "address": "342/1 ซอยอุดมสุข 3",
+        "province": {
+          "provinceId": 115,
+          "name": "ตาก"
+        },
+        "district": {
+          "districtId": 6301,
+          "name": "เมืองตาก"
+        },
+        "subDistrict": {
+          "subDistrictId": 630108,
+          "name": "น้ำรึม"
+        },
+        "postcode": "63000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001154",
+      "viewer": 4,
+      "slug": "บ้านอาม่า"
+    },
+    {
+      "placeId": "33786",
+      "status": "approved",
+      "name": "บ้าน 3 ชาย",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "ที่พัก"
+      },
+      "sha": null,
+      "latitude": "16.55629",
+      "longitude": "100.99561",
+      "location": {
+        "address": "ทางหลวงแผ่นดินหมายเลข 2258",
+        "province": {
+          "provinceId": 110,
+          "name": "เพชรบูรณ์"
+        },
+        "district": {
+          "districtId": 6711,
+          "name": "เขาค้อ"
+        },
+        "subDistrict": {
+          "subDistrictId": 671105,
+          "name": "สะเดาะพง"
+        },
+        "postcode": "67270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001257",
+      "viewer": 4,
+      "slug": "บ้าน-3-ชาย"
+    },
+    {
+      "placeId": "33795",
+      "status": "approved",
+      "name": "แบลลี่ส์สีลม",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "สถานที่อื่นๆ"
+      },
+      "sha": null,
+      "latitude": "13.72920",
+      "longitude": "100.53536",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "กรุงเทพมหานคร"
+        },
+        "district": {
+          "districtId": 1004,
+          "name": "บางรัก"
+        },
+        "subDistrict": {
+          "subDistrictId": 100403,
+          "name": "สุริยวงศ์"
+        },
+        "postcode": "10500"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003523",
+      "viewer": 4,
+      "slug": "แบลลี่ส์สีลม"
+    },
+    {
+      "placeId": "33796",
+      "status": "approved",
+      "name": "บั๊มก๋วยเตี๋ยว (เจ้าเก่า)",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "ร้านอาหาร กาแฟ เบเกอรี่"
+      },
+      "sha": null,
+      "latitude": "14.84320",
+      "longitude": "100.64380",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "ลพบุรี"
+        },
+        "district": {
+          "districtId": 1601,
+          "name": "เมืองลพบุรี"
+        },
+        "subDistrict": {
+          "subDistrictId": 160106,
+          "name": "เขาสามยอด"
+        },
+        "postcode": "15000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009031",
+      "viewer": 5,
+      "slug": "บั๊มก๋วยเตี๋ยว-(เจ้าเก่า)"
+    }
+  ],
+  "query": {
+    "limit": 1000,
+    "page": 21,
+    "type": "place",
+    "hasIntroduction": false,
+    "hasThumbnail": false,
+    "hasName": false
+  },
+  "pagination": {
+    "pageNumber": 21,
+    "pageSize": 1000,
+    "total": 20159
+  }
+}
