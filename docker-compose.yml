@@ -3,14 +3,16 @@ services:
     image: postgres:15-alpine
     container_name: taluithai-postgres
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: taluithai
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-taluithai}
     ports:
       - "5434:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./init.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+      - ./02-railway-schema.sql:/docker-entrypoint-initdb.d/02-railway.sql:ro
+      - ./03-public-transport-schema.sql:/docker-entrypoint-initdb.d/03-public-transport.sql:ro
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres -d taluithai"]
       interval: 10s

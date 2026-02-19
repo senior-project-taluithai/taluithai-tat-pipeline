@@ -15,8 +15,10 @@ import glob
 from datetime import datetime
 from typing import Dict, List, Any, Optional
 import psycopg2
+from dotenv import load_dotenv
 from psycopg2.extras import execute_values
 
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 # Database configuration
 DB_CONFIG = {

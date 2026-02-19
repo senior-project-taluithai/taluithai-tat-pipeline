@@ -53,3 +53,6 @@ Thumbs.db
 # places/raw_tat_place/
 # places/raw_tat_province/
 # raw_tat_province/
+
+# LangGraph API
+.langgraph_api

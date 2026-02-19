@@ -4,8 +4,11 @@ Database Loader and Batch Updater
 
 import os
 import psycopg2
+from dotenv import load_dotenv
 from psycopg2.extras import execute_values
 from datetime import datetime
+
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '..', '.env'))
 
 # DB Config
 DB_CONFIG = {

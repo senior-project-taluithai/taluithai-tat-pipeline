@@ -46,7 +46,8 @@ def get_places_batch(batch_size: int = 50) -> list:
             pr.name as province_name
         FROM tat.places p
         LEFT JOIN tat.provinces pr ON p.province_id = pr.province_id
-        WHERE p.wongnai_genres IS NULL
+        WHERE p.wongnai_genres IS NULL 
+           OR array_length(p.wongnai_genres, 1) IS NULL
         ORDER BY RANDOM()
         LIMIT %s
     """
@@ -72,6 +73,7 @@ def run_worker(
     delay_min: float = 1.0,
     delay_max: float = 2.5,
     max_places: int = 0,  # 0 = unlimited
+    genres_only: bool = False,  # If True, only update genres, not ratings
 ):
     """Run Wongnai scraper"""
     # Add worker_id to log format
@@ -89,6 +91,8 @@ def run_worker(
     logger.info(f"   Delay: {delay_min}-{delay_max}s")
     if max_places > 0:
         logger.info(f"   Max places: {max_places}")
+    if genres_only:
+        logger.info(f"   ⚡ GENRES ONLY MODE - ratings will NOT be updated")
     logger.info("")
     
     total_scraped = 0
@@ -139,7 +143,7 @@ def run_worker(
             # Save batch immediately after processing
             if results:
                 try:
-                    stats = update_wongnai_batch(results)
+                    stats = update_wongnai_batch(results, genres_only=genres_only)
                     
                     success = sum(1 for r in results if r.get('status') == 'success_w')
                     with_genres = sum(1 for r in results if r.get('wongnai_genres'))
@@ -149,7 +153,7 @@ def run_worker(
                     total_success += success
                     total_with_genres += with_genres
                     
-                    log_msg = f"💾 Saved: {stats.get('updated', 0)} | Marked: {stats.get('marked', 0)} | Success: {success}/{len(results)}"
+                    log_msg = f"💾 Genres: {stats.get('genres_only', 0)} | Ratings: {stats.get('updated', 0)} | Marked: {stats.get('marked', 0)}"
                     if rate_limited > 0:
                         log_msg += f" | ⏳ Rate Limited: {rate_limited} (will retry)"
                     logger.info(log_msg)
@@ -186,6 +190,7 @@ if __name__ == "__main__":
     parser.add_argument("--delay-min", type=float, default=1.0)
     parser.add_argument("--delay-max", type=float, default=2.5)
     parser.add_argument("--max-places", type=int, default=0, help="Max places to scrape (0=unlimited)")
+    parser.add_argument("--genres-only", action="store_true", help="Only update genres, not ratings")
     
     args = parser.parse_args()
     
@@ -195,4 +200,5 @@ if __name__ == "__main__":
         delay_min=args.delay_min,
         delay_max=args.delay_max,
         max_places=args.max_places,
+        genres_only=args.genres_only,
     )

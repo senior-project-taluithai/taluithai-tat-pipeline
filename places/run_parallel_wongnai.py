@@ -27,7 +27,7 @@ def get_remaining_count():
     conn = get_connection()
     try:
         with conn.cursor() as cur:
-            cur.execute("SELECT COUNT(*) FROM tat.places WHERE wongnai_genres IS NULL")
+            cur.execute("SELECT COUNT(*) FROM tat.places WHERE wongnai_genres IS NULL OR array_length(wongnai_genres, 1) IS NULL")
             return cur.fetchone()[0]
     finally:
         conn.close()
@@ -40,6 +40,7 @@ def main():
     parser.add_argument("--delay-min", type=float, default=8.0, help="Min delay between requests (seconds)")
     parser.add_argument("--delay-max", type=float, default=15.0, help="Max delay between requests (seconds)")
     parser.add_argument("--stagger", type=float, default=5.0, help="Seconds between starting each worker")
+    parser.add_argument("--genres-only", action="store_true", help="Only update genres, not ratings (use while Google is running)")
     
     args = parser.parse_args()
     
@@ -62,6 +63,8 @@ def main():
     print(f"   Stagger between workers: {args.stagger}s")
     print(f"   Estimated rate: ~{effective_rate:.1f} places/min")
     print(f"   Estimated time: ~{estimated_hours:.1f} hours")
+    if args.genres_only:
+        print(f"   ⚡ GENRES ONLY MODE - ratings will NOT be updated")
     
     print(f"\n🚀 Launching {args.workers} workers (staggered)...")
     
@@ -76,6 +79,9 @@ def main():
             "--delay-min", str(args.delay_min),
             "--delay-max", str(args.delay_max),
         ]
+        
+        if args.genres_only:
+            cmd.append("--genres-only")
         
         print(f"   ► Worker {worker_id} starting...")
         

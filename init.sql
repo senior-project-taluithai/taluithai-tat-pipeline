@@ -73,6 +73,24 @@ CREATE TABLE IF NOT EXISTS tat.places (
     sha_category_id INTEGER REFERENCES tat.sha_categories(category_id)
 );
 
+-- Events table
+CREATE TABLE IF NOT EXISTS tat.events (
+    event_id INTEGER PRIMARY KEY,
+    name TEXT,
+    introduction TEXT,
+    name_en TEXT,
+    introduction_en TEXT,
+    start_date TIMESTAMPTZ,
+    end_date TIMESTAMPTZ,
+    latitude DECIMAL(10, 5),
+    longitude DECIMAL(10, 5),
+    province_id INTEGER REFERENCES tat.provinces(province_id),
+    thumbnail_url TEXT,
+    tags TEXT[],
+    created_at TIMESTAMPTZ,
+    updated_at TIMESTAMPTZ
+);
+
 -- Create indexes for common queries
 CREATE INDEX IF NOT EXISTS idx_places_province ON tat.places(province_id);
 CREATE INDEX IF NOT EXISTS idx_places_category ON tat.places(category_id);
