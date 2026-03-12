@@ -1,0 +1,13 @@
+name: taluithai-tat-pipeline
+prefect-version: 3.0.0
+
+# Use .serve() mode — no work pool needed (free plan compatible)
+# Run with: python prefect_flows/tat_daily_sync.py serve
+#
+# This starts a long-running process that:
+#   1. Registers the flow with Prefect Cloud
+#   2. Schedules runs via cron (every day at 02:00 Bangkok time)
+#   3. Executes runs in-process
+#
+# For production, run with: nohup python prefect_flows/tat_daily_sync.py serve &
+# Or use systemd/tmux/screen to keep it alive.

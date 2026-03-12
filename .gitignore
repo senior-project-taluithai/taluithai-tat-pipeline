@@ -43,6 +43,15 @@ places/google_session.json
 .env
 .env.local
 .env.*.local
+deploy/env.production
+
+# Database dumps
+*.dump
+*.sql.bak
+
+# Large raw data (JSON scraped data)
+places/raw_from_google_scraping/*.json
+!places/raw_from_google_scraping/import_to_mongodb.py
 
 # OS
 .DS_Store
@@ -56,3 +65,4 @@ Thumbs.db
 
 # LangGraph API
 .langgraph_api
+env.production

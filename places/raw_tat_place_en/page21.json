@@ -1,0 +1,4813 @@
+{
+  "data": [
+    {
+      "placeId": "33063",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.80280",
+      "longitude": "100.72974",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1010,
+          "name": "Min Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 101001,
+          "name": "Min Buri"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003635",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33066",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.88791",
+      "longitude": "100.51074",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "Mueang Nonthaburi"
+        },
+        "subDistrict": {
+          "subDistrictId": 120105,
+          "name": "Tha Sai"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003630",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33067",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.75872",
+      "longitude": "100.61652",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100608,
+          "name": "Hua Mak"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003631",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33068",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.68005",
+      "longitude": "100.60978",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1047,
+          "name": "Bang Na"
+        },
+        "subDistrict": {
+          "subDistrictId": 104702,
+          "name": "Bang Na Nuea"
+        },
+        "postcode": "10260"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003629",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33069",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.75559",
+      "longitude": "100.79810",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "Lat Krabang"
+        },
+        "subDistrict": {
+          "subDistrictId": 101104,
+          "name": "Lam Pla Thio"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003627",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33070",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.78412",
+      "longitude": "100.49503",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1025,
+          "name": "Bang Phlat"
+        },
+        "subDistrict": {
+          "subDistrictId": 102504,
+          "name": "Bang Yi Khan"
+        },
+        "postcode": "10700"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003626",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33071",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "15.23556",
+      "longitude": "104.86580",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 587,
+          "name": "Ubon Ratchathani"
+        },
+        "district": {
+          "districtId": 3401,
+          "name": "Mueang Ubon Ratchathani"
+        },
+        "subDistrict": {
+          "subDistrictId": 340101,
+          "name": "Nai Mueang"
+        },
+        "postcode": "34000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003579",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33072",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.80068",
+      "longitude": "100.44301",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1202,
+          "name": "Bang Kruai"
+        },
+        "subDistrict": {
+          "subDistrictId": 120207,
+          "name": "Maha Sawat"
+        },
+        "postcode": "11130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003568",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33073",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.71431",
+      "longitude": "100.58798",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "Khlong Toei"
+        },
+        "subDistrict": {
+          "subDistrictId": 103303,
+          "name": "Phra Khanong"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003569",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33074",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.67475",
+      "longitude": "101.06727",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 220,
+          "name": "Chachoengsao"
+        },
+        "district": {
+          "districtId": 2401,
+          "name": "Mueang Chachoengsao"
+        },
+        "subDistrict": {
+          "subDistrictId": 240101,
+          "name": "Na Mueang"
+        },
+        "postcode": "24000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003567",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33075",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.84018",
+      "longitude": "100.54929",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1030,
+          "name": "Chatuchak"
+        },
+        "subDistrict": {
+          "subDistrictId": 103001,
+          "name": "Lat Yao"
+        },
+        "postcode": "10900"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003566",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33076",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.90705",
+      "longitude": "100.63205",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1042,
+          "name": "Sai Mai"
+        },
+        "subDistrict": {
+          "subDistrictId": 104203,
+          "name": "Khlong Thanon"
+        },
+        "postcode": "10220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003564",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33077",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.84585",
+      "longitude": "100.60260",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "Lat Phrao"
+        },
+        "subDistrict": {
+          "subDistrictId": 103802,
+          "name": "Chorakhe Bua"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003565",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33078",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.65008",
+      "longitude": "100.59501",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "Samut Prakan"
+        },
+        "district": {
+          "districtId": 1101,
+          "name": "Mueang Samut Prakan"
+        },
+        "subDistrict": {
+          "subDistrictId": 110102,
+          "name": "Samrong Nuea"
+        },
+        "postcode": "10270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003520",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33079",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "14.97445",
+      "longitude": "103.06835",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 572,
+          "name": "Buri Ram"
+        },
+        "district": {
+          "districtId": 3101,
+          "name": "Mueang Buri Ram"
+        },
+        "subDistrict": {
+          "subDistrictId": 310102,
+          "name": "Isan"
+        },
+        "postcode": "31000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003518",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33080",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "14.98217",
+      "longitude": "100.01156",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 221,
+          "name": "Chainat"
+        },
+        "district": {
+          "districtId": 1806,
+          "name": "Hankha"
+        },
+        "subDistrict": {
+          "subDistrictId": 180601,
+          "name": "Hankha"
+        },
+        "postcode": "17130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003480",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33081",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.76924",
+      "longitude": "100.64204",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "Khlong Chan"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003223",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33082",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.95495",
+      "longitude": "100.48709",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "Pathum Thani"
+        },
+        "district": {
+          "districtId": 1301,
+          "name": "Mueang Pathum Thani"
+        },
+        "subDistrict": {
+          "subDistrictId": 130107,
+          "name": "Bang Khu Wat"
+        },
+        "postcode": "12000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003330",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33083",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.72166",
+      "longitude": "100.77772",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "Lat Krabang"
+        },
+        "subDistrict": {
+          "subDistrictId": 101101,
+          "name": "Lat Krabang"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003221",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33084",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "16.39012",
+      "longitude": "98.69417",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6307,
+          "name": "Phop Phra"
+        },
+        "subDistrict": {
+          "subDistrictId": 630701,
+          "name": "Phop Phra"
+        },
+        "postcode": "63160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003220",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33085",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "17.41388",
+      "longitude": "104.77840",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "Nakhon Phanom"
+        },
+        "district": {
+          "districtId": 4801,
+          "name": "Mueang Nakhon Phanom"
+        },
+        "subDistrict": {
+          "subDistrictId": 480101,
+          "name": "Nai Mueang"
+        },
+        "postcode": "48000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003219",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33086",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "10.56208",
+      "longitude": "99.11542",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 343,
+          "name": "Chumphon"
+        },
+        "district": {
+          "districtId": 8602,
+          "name": "Tha Sae"
+        },
+        "subDistrict": {
+          "subDistrictId": 860206,
+          "name": "Tha Kham"
+        },
+        "postcode": "86140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003218",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33087",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "7.53069",
+      "longitude": "99.57568",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 355,
+          "name": "Trang"
+        },
+        "district": {
+          "districtId": 9201,
+          "name": "Mueang Trang"
+        },
+        "subDistrict": {
+          "subDistrictId": 920107,
+          "name": "Khuan Pring"
+        },
+        "postcode": "92000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003217",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33088",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "20.24558",
+      "longitude": "99.66129",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5715,
+          "name": "Mae Fa Luang"
+        },
+        "subDistrict": {
+          "subDistrictId": 571501,
+          "name": "Thoet Thai"
+        },
+        "postcode": "57240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003216",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33089",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "9.51599",
+      "longitude": "100.05425",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "Ko Samui"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "Bo Phut"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003215",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33090",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "16.01839",
+      "longitude": "98.86300",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6308,
+          "name": "Umphang"
+        },
+        "subDistrict": {
+          "subDistrictId": 630801,
+          "name": "Umphang"
+        },
+        "postcode": "63170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003213",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33091",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "15.07282",
+      "longitude": "100.71566",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "Lop Buri"
+        },
+        "district": {
+          "districtId": 1603,
+          "name": "Khok Samrong"
+        },
+        "subDistrict": {
+          "subDistrictId": 160301,
+          "name": "Khok Samrong"
+        },
+        "postcode": "15120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003208",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33092",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "16.03870",
+      "longitude": "103.13271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 577,
+          "name": "Maha Sarakham"
+        },
+        "district": {
+          "districtId": 4406,
+          "name": "Borabue"
+        },
+        "subDistrict": {
+          "subDistrictId": 440610,
+          "name": "Nong Chik"
+        },
+        "postcode": "44130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003206",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33093",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "17.87851",
+      "longitude": "101.65572",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003205",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33095",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "9.70337",
+      "longitude": "100.01380",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8405,
+          "name": "Ko Pha-ngan"
+        },
+        "subDistrict": {
+          "subDistrictId": 840502,
+          "name": "Ban Tai"
+        },
+        "postcode": "84280"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003203",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33096",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "17.89556",
+      "longitude": "101.66049",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003204",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33097",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.67749",
+      "longitude": "100.65043",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1032,
+          "name": "Prawet"
+        },
+        "subDistrict": {
+          "subDistrictId": 103202,
+          "name": "Nong Bon"
+        },
+        "postcode": "10250"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003147",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33098",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.80779",
+      "longitude": "100.63117",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "Khlong Chan"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003176",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33099",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.85960",
+      "longitude": "100.69587",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1046,
+          "name": "Khlong Sam Wa"
+        },
+        "subDistrict": {
+          "subDistrictId": 104603,
+          "name": "Bang Chan"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003146",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33100",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.71679",
+      "longitude": "100.48155",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1015,
+          "name": "Thon Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 101504,
+          "name": "Bukkhalo"
+        },
+        "postcode": "10600"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003155",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33101",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.79190",
+      "longitude": "100.61867",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1045,
+          "name": "Wang Thonglang"
+        },
+        "subDistrict": {
+          "subDistrictId": 104503,
+          "name": "Khlong Chao Khun Sing"
+        },
+        "postcode": "10310"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003145",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33102",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.70723",
+      "longitude": "100.37016",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1023,
+          "name": "Nong Khaem"
+        },
+        "subDistrict": {
+          "subDistrictId": 102303,
+          "name": "Nong Khang Phlu"
+        },
+        "postcode": "10160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003144",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33104",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.77709",
+      "longitude": "100.47788",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1020,
+          "name": "Bangkok Noi"
+        },
+        "subDistrict": {
+          "subDistrictId": 102009,
+          "name": "Arun Ammarin"
+        },
+        "postcode": "10700"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003143",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33105",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.84336",
+      "longitude": "100.61984",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "Lat Phrao"
+        },
+        "subDistrict": {
+          "subDistrictId": 103802,
+          "name": "Chorakhe Bua"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003139",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33106",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.74234",
+      "longitude": "100.55368",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "Watthana"
+        },
+        "subDistrict": {
+          "subDistrictId": 103901,
+          "name": "Khlong Toei Nuea"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003138",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33107",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.68008",
+      "longitude": "100.63680",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1009,
+          "name": "Phra Khanong"
+        },
+        "subDistrict": {
+          "subDistrictId": 100905,
+          "name": "Bang Chak"
+        },
+        "postcode": "10260"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003136",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33108",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.82096",
+      "longitude": "100.60929",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1038,
+          "name": "Lat Phrao"
+        },
+        "subDistrict": {
+          "subDistrictId": 103801,
+          "name": "Lat Phrao"
+        },
+        "postcode": "10230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003137",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33109",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.91966",
+      "longitude": "100.68451",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1042,
+          "name": "Sai Mai"
+        },
+        "subDistrict": {
+          "subDistrictId": 104201,
+          "name": "Sai Mai"
+        },
+        "postcode": "10220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003135",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33110",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.84760",
+      "longitude": "100.51440",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "Mueang Nonthaburi"
+        },
+        "subDistrict": {
+          "subDistrictId": 120102,
+          "name": "Talat Khwan"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003132",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33111",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.70881",
+      "longitude": "100.53154",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1028,
+          "name": "Sathon"
+        },
+        "subDistrict": {
+          "subDistrictId": 102801,
+          "name": "Thung Wat Don"
+        },
+        "postcode": "10120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003134",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33112",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.69204",
+      "longitude": "100.63972",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1032,
+          "name": "Prawet"
+        },
+        "subDistrict": {
+          "subDistrictId": 103202,
+          "name": "Nong Bon"
+        },
+        "postcode": "10250"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003133",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33113",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.87664",
+      "longitude": "100.50303",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "Mueang Nonthaburi"
+        },
+        "subDistrict": {
+          "subDistrictId": 120105,
+          "name": "Tha Sai"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003131",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33114",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.80096",
+      "longitude": "100.71895",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1010,
+          "name": "Min Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 101001,
+          "name": "Min Buri"
+        },
+        "postcode": "10510"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003130",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33115",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.74366",
+      "longitude": "100.55432",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1039,
+          "name": "Watthana"
+        },
+        "subDistrict": {
+          "subDistrictId": 103901,
+          "name": "Khlong Toei Nuea"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003128",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33116",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.67175",
+      "longitude": "100.49744",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1024,
+          "name": "Rat Burana"
+        },
+        "subDistrict": {
+          "subDistrictId": 102402,
+          "name": "Bang Pakok"
+        },
+        "postcode": "10140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003129",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33117",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.87479",
+      "longitude": "100.45490",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1201,
+          "name": "Mueang Nonthaburi"
+        },
+        "subDistrict": {
+          "subDistrictId": 120110,
+          "name": "Bang Rak Noi"
+        },
+        "postcode": "11000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003121",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33118",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.74961",
+      "longitude": "100.55621",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "Ratchathewi"
+        },
+        "subDistrict": {
+          "subDistrictId": 103704,
+          "name": "Makkasan"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003120",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33120",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.74525",
+      "longitude": "100.53505",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1007,
+          "name": "Pathum Wan"
+        },
+        "subDistrict": {
+          "subDistrictId": 100703,
+          "name": "Pathum Wan"
+        },
+        "postcode": "10330"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003119",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33121",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.70877",
+      "longitude": "100.56431",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "Khlong Toei"
+        },
+        "subDistrict": {
+          "subDistrictId": 103301,
+          "name": "Khlong Toei"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003118",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33122",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.88133",
+      "longitude": "100.43351",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "Bang Bua Thong"
+        },
+        "subDistrict": {
+          "subDistrictId": 120408,
+          "name": "Bang Rak Phatthana"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003117",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33123",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.89245",
+      "longitude": "100.44968",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1206,
+          "name": "Pak Kret"
+        },
+        "subDistrict": {
+          "subDistrictId": 120607,
+          "name": "Tha It"
+        },
+        "postcode": "11120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003116",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33124",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.75506",
+      "longitude": "100.62888",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100608,
+          "name": "Hua Mak"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003111",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33125",
+      "status": "approved",
+      "name": "645 Show",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.68667",
+      "longitude": "100.52379",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1012,
+          "name": "Yan Nawa"
+        },
+        "subDistrict": {
+          "subDistrictId": 101204,
+          "name": "Bang Phongphang"
+        },
+        "postcode": "10120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006535",
+      "viewer": 3,
+      "slug": "645-show"
+    },
+    {
+      "placeId": "33126",
+      "status": "approved",
+      "name": "7 Eleven",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.75945",
+      "longitude": "100.50271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "Phra Nakhon"
+        },
+        "subDistrict": {
+          "subDistrictId": 100107,
+          "name": "Bowon Niwet"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003109",
+      "viewer": 3,
+      "slug": "7-eleven"
+    },
+    {
+      "placeId": "33128",
+      "status": "approved",
+      "name": "60 Phansa Maharachini Park",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "15.15634",
+      "longitude": "98.45119",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 222,
+          "name": "Kanchanaburi"
+        },
+        "district": {
+          "districtId": 7108,
+          "name": "Sangkhla Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 710801,
+          "name": "Nong Lu"
+        },
+        "postcode": "71240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002497",
+      "viewer": 3,
+      "slug": "60-phansa-maharachini-park"
+    },
+    {
+      "placeId": "33129",
+      "status": "approved",
+      "name": "60 Thap 1 Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.61390",
+      "longitude": "101.24294",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 220,
+          "name": "Chachoengsao"
+        },
+        "district": {
+          "districtId": 2409,
+          "name": "Plaeng Yao"
+        },
+        "subDistrict": {
+          "subDistrictId": 240901,
+          "name": "Plaeng Yao"
+        },
+        "postcode": "24190"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007439",
+      "viewer": 3,
+      "slug": "60-thap-1-restaurant"
+    },
+    {
+      "placeId": "33131",
+      "status": "approved",
+      "name": "56 Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.55932",
+      "longitude": "100.02552",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "Ko Samui"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "Bo Phut"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008081",
+      "viewer": 3,
+      "slug": "56-restaurant"
+    },
+    {
+      "placeId": "33132",
+      "status": "approved",
+      "name": "60 Barbecue Buffet",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.63000",
+      "longitude": "102.78085",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 572,
+          "name": "Buri Ram"
+        },
+        "district": {
+          "districtId": 3104,
+          "name": "Nang Rong"
+        },
+        "subDistrict": {
+          "subDistrictId": 310401,
+          "name": "Nang Rong"
+        },
+        "postcode": "31110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006861",
+      "viewer": 3,
+      "slug": "60-barbecue-buffet"
+    },
+    {
+      "placeId": "33135",
+      "status": "approved",
+      "name": "555 Homestay",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.88974",
+      "longitude": "101.65182",
+      "location": {
+        "address": "Soi Si Chiang Khan 5",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000842",
+      "viewer": 3,
+      "slug": "555-homestay"
+    },
+    {
+      "placeId": "33136",
+      "status": "approved",
+      "name": "505 Steak House",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.84999",
+      "longitude": "101.82907",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "Nakhon Ratchasima"
+        },
+        "district": {
+          "districtId": 3018,
+          "name": "Sung Noen"
+        },
+        "subDistrict": {
+          "subDistrictId": 301801,
+          "name": "Sung Noen"
+        },
+        "postcode": "30170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006989",
+      "viewer": 3,
+      "slug": "505-steak-house"
+    },
+    {
+      "placeId": "33137",
+      "status": "approved",
+      "name": "5.10.1000 Homestay",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.89237",
+      "longitude": "101.65143",
+      "location": {
+        "address": "124 Highway 2195",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000700",
+      "viewer": 3,
+      "slug": "5-10-1000-homestay"
+    },
+    {
+      "placeId": "33141",
+      "status": "approved",
+      "name": "42 Noodle",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "16.87460",
+      "longitude": "99.12255",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6301,
+          "name": "Mueang Tak"
+        },
+        "subDistrict": {
+          "subDistrictId": 630102,
+          "name": "Nong Luang"
+        },
+        "postcode": "63000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006346",
+      "viewer": 3,
+      "slug": "42-noodle"
+    },
+    {
+      "placeId": "33145",
+      "status": "approved",
+      "name": "3d Theater",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "12.92959",
+      "longitude": "100.87788",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "Chon Buri"
+        },
+        "district": {
+          "districtId": 2004,
+          "name": "Bang Lamung"
+        },
+        "subDistrict": {
+          "subDistrictId": 200402,
+          "name": "Nong Prue"
+        },
+        "postcode": "20150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01001785",
+      "viewer": 3,
+      "slug": "3d-theater"
+    },
+    {
+      "placeId": "33147",
+      "status": "approved",
+      "name": "360 Degree Water Park",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "8.23970",
+      "longitude": "98.30096",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 348,
+          "name": "Phang Nga"
+        },
+        "district": {
+          "districtId": 8204,
+          "name": "Takua Thung"
+        },
+        "subDistrict": {
+          "subDistrictId": 820406,
+          "name": "Khok Kloi"
+        },
+        "postcode": "82140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002707",
+      "viewer": 3,
+      "slug": "360-degree-water-park"
+    },
+    {
+      "placeId": "33151",
+      "status": "approved",
+      "name": "333 Coffee",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "16.82871",
+      "longitude": "98.59756",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6306,
+          "name": "Mae Sot"
+        },
+        "subDistrict": {
+          "subDistrictId": 630605,
+          "name": "Mae Kasa"
+        },
+        "postcode": "63110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007675",
+      "viewer": 3,
+      "slug": "333-coffee"
+    },
+    {
+      "placeId": "33154",
+      "status": "approved",
+      "name": "33 Seafoods",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.79490",
+      "longitude": "100.63436",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "Lop Buri"
+        },
+        "district": {
+          "districtId": 1601,
+          "name": "Mueang Lop Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 160101,
+          "name": "Thale Chup Son"
+        },
+        "postcode": "15000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009077",
+      "viewer": 3,
+      "slug": "33-seafoods"
+    },
+    {
+      "placeId": "33157",
+      "status": "approved",
+      "name": "300 Years Thai Loei Resort",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.44238",
+      "longitude": "101.36321",
+      "location": {
+        "address": "77 Loei 3008 Rural Road",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4207,
+          "name": "Phu Ruea"
+        },
+        "subDistrict": {
+          "subDistrictId": 420701,
+          "name": "Nong Bua"
+        },
+        "postcode": "42160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000908",
+      "viewer": 3,
+      "slug": "300-years-thai-loei-resort"
+    },
+    {
+      "placeId": "33159",
+      "status": "approved",
+      "name": "3 Po Satay",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.07041",
+      "longitude": "100.52452",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "Pathum Thani"
+        },
+        "district": {
+          "districtId": 1307,
+          "name": "Sam Khok"
+        },
+        "subDistrict": {
+          "subDistrictId": 130701,
+          "name": "Bang Toei"
+        },
+        "postcode": "12160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007338",
+      "viewer": 4,
+      "slug": "3-po-satay"
+    },
+    {
+      "placeId": "33160",
+      "status": "approved",
+      "name": "3 Rot Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "20.27612",
+      "longitude": "99.86395",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5709,
+          "name": "Mae Sai"
+        },
+        "subDistrict": {
+          "subDistrictId": 570902,
+          "name": "Huai Khrai"
+        },
+        "postcode": "57220"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007836",
+      "viewer": 3,
+      "slug": "3-rot-restaurant"
+    },
+    {
+      "placeId": "33163",
+      "status": "approved",
+      "name": "2t Resort",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.00883",
+      "longitude": "104.69079",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "Nakhon Phanom"
+        },
+        "district": {
+          "districtId": 4806,
+          "name": "Renu Nakhon"
+        },
+        "subDistrict": {
+          "subDistrictId": 480607,
+          "name": "Nong Yang Chin"
+        },
+        "postcode": "48170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000370",
+      "viewer": 3,
+      "slug": "2t-resort"
+    },
+    {
+      "placeId": "33165",
+      "status": "approved",
+      "name": "2n Coffee",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.79237",
+      "longitude": "100.42856",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1019,
+          "name": "Taling Chan"
+        },
+        "subDistrict": {
+          "subDistrictId": 101903,
+          "name": "Chimphli"
+        },
+        "postcode": "10170"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005223",
+      "viewer": 3,
+      "slug": "2n-coffee"
+    },
+    {
+      "placeId": "33166",
+      "status": "approved",
+      "name": "2500 Thi Nang Phitsanulok Provincial Administratio",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "16.84647",
+      "longitude": "100.26104",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 112,
+          "name": "Phitsanulok"
+        },
+        "district": {
+          "districtId": 6501,
+          "name": "Mueang Phitsanulok"
+        },
+        "subDistrict": {
+          "subDistrictId": 650111,
+          "name": "Hua Ro"
+        },
+        "postcode": "65000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002773",
+      "viewer": 3,
+      "slug": "2500-thi-nang-phitsanulok-provincial-administratio"
+    },
+    {
+      "placeId": "33171",
+      "status": "approved",
+      "name": "Adelphi Suite",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": {
+        "name": "Adelphi Suites",
+        "detail": "Stay with us and feel like home",
+        "detailThumbnail": "https://dmc.tatdataapi.io/assets/6966bfa4-a5a0-4d82-8bdf-73691968deab.jpg",
+        "detailPicture": [
+          "https://dmc.tatdataapi.io/assets/0e0d354e-ef82-430a-aae2-3eaceb20e4a5.jpg",
+          "https://dmc.tatdataapi.io/assets/a959f663-6287-423f-b735-04888e5d2ee2.jpg",
+          "https://dmc.tatdataapi.io/assets/109cdf34-cbb2-4b09-91e0-df0e50f0262e.jpg",
+          "https://dmc.tatdataapi.io/assets/1ea1b95a-3211-45db-9d11-ca3372c9a520.jpg",
+          "https://dmc.tatdataapi.io/assets/7854d8db-b221-402e-ab8f-ac6fa63d2d34.jpg"
+        ],
+        "thumbnailUrl": "https://dmc.tatdataapi.io/assets/995f0bc3-c3b9-474b-aad8-17971ed1145c.jpeg",
+        "type": {
+          "typeId": 2,
+          "name": "โรงแรมและที่พัก สถานที่จัดการประชุม"
+        },
+        "category": {
+          "categoryId": 3,
+          "name": "SHA Extra+",
+          "icon": "https://dmc.tatdataapi.io/assets/995f0bc3-c3b9-474b-aad8-17971ed1145c.jpeg"
+        }
+      },
+      "latitude": "13.73891",
+      "longitude": "100.55582",
+      "location": {
+        "address": "6 Soi Sukhumvit 8",
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1033,
+          "name": "Khlong Toei"
+        },
+        "subDistrict": {
+          "subDistrictId": 103301,
+          "name": "Khlong Toei"
+        },
+        "postcode": "10110"
+      },
+      "thumbnailUrl": [
+        "https://dmc.tatdataapi.io/assets/b079cf69-bfce-4edd-9f60-bcfc6351563b.jpg"
+      ],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001368",
+      "viewer": 3,
+      "slug": "adelphi-suite"
+    },
+    {
+      "placeId": "33173",
+      "status": "approved",
+      "name": "21 Living Place",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.76140",
+      "longitude": "100.53907",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1037,
+          "name": "Ratchathewi"
+        },
+        "subDistrict": {
+          "subDistrictId": 103702,
+          "name": "Thanon Phaya Thai"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003526",
+      "viewer": 3,
+      "slug": "21-living-place"
+    },
+    {
+      "placeId": "33176",
+      "status": "approved",
+      "name": "2 Three 9",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.89630",
+      "longitude": "101.67345",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000217",
+      "viewer": 3,
+      "slug": "2-three-9"
+    },
+    {
+      "placeId": "33177",
+      "status": "approved",
+      "name": "2 Millions Coffee",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "17.37400",
+      "longitude": "104.78856",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 579,
+          "name": "Nakhon Phanom"
+        },
+        "district": {
+          "districtId": 4801,
+          "name": "Mueang Nakhon Phanom"
+        },
+        "subDistrict": {
+          "subDistrictId": 480101,
+          "name": "Nai Mueang"
+        },
+        "postcode": "48000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008414",
+      "viewer": 3,
+      "slug": "2-millions-coffee"
+    },
+    {
+      "placeId": "33181",
+      "status": "approved",
+      "name": "189 Resort",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "13.65125",
+      "longitude": "100.61165",
+      "location": {
+        "address": "Soi Baering 30",
+        "province": {
+          "provinceId": 234,
+          "name": "Samut Prakan"
+        },
+        "district": {
+          "districtId": 1101,
+          "name": "Mueang Samut Prakan"
+        },
+        "subDistrict": {
+          "subDistrictId": 110102,
+          "name": "Samrong Nuea"
+        },
+        "postcode": "10270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001242",
+      "viewer": 3,
+      "slug": "189-resort"
+    },
+    {
+      "placeId": "33182",
+      "status": "approved",
+      "name": "18 Mongkut Khaomankai",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.77751",
+      "longitude": "100.79753",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "Lat Krabang"
+        },
+        "subDistrict": {
+          "subDistrictId": 101104,
+          "name": "Lam Pla Thio"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006395",
+      "viewer": 3,
+      "slug": "18-mongkut-khaomankai"
+    },
+    {
+      "placeId": "33183",
+      "status": "approved",
+      "name": "18 Below",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.57005",
+      "longitude": "100.06059",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "Ko Samui"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "Bo Phut"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006153",
+      "viewer": 3,
+      "slug": "18-below"
+    },
+    {
+      "placeId": "33184",
+      "status": "approved",
+      "name": "15 Sit Huan Boxing Camp",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.67755",
+      "longitude": "102.54956",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 233,
+          "name": "Sa Kaeo"
+        },
+        "district": {
+          "districtId": 2706,
+          "name": "Aranyaprathet"
+        },
+        "subDistrict": {
+          "subDistrictId": 270606,
+          "name": "Pa Rai"
+        },
+        "postcode": "27120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01001861",
+      "viewer": 3,
+      "slug": "15-sit-huan-boxing-camp"
+    },
+    {
+      "placeId": "33187",
+      "status": "approved",
+      "name": "147 Thai Food",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.75798",
+      "longitude": "100.49916",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "Phra Nakhon"
+        },
+        "subDistrict": {
+          "subDistrictId": 100107,
+          "name": "Bowon Niwet"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003857",
+      "viewer": 3,
+      "slug": "147-thai-food"
+    },
+    {
+      "placeId": "33190",
+      "status": "approved",
+      "name": "14 Homestay",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.89580",
+      "longitude": "101.65656",
+      "location": {
+        "address": "152/1 Soi Si Chiang Khan 14",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000801",
+      "viewer": 3,
+      "slug": "14-homestay"
+    },
+    {
+      "placeId": "33191",
+      "status": "approved",
+      "name": "136 Khaomankai",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.77056",
+      "longitude": "100.63676",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "Khlong Chan"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006183",
+      "viewer": 4,
+      "slug": "136-khaomankai"
+    },
+    {
+      "placeId": "33196",
+      "status": "approved",
+      "name": "13 Coins Hotel",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "13.94296",
+      "longitude": "100.54376",
+      "location": {
+        "address": "9/99 Moo 3 Soi Muban Pradapsuk 1",
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1206,
+          "name": "Pak Kret"
+        },
+        "subDistrict": {
+          "subDistrictId": 120603,
+          "name": "Ban Mai"
+        },
+        "postcode": "11120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001391",
+      "viewer": 3,
+      "slug": "13-coins-hotel"
+    },
+    {
+      "placeId": "33197",
+      "status": "approved",
+      "name": "13 Coins",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "13.87531",
+      "longitude": "100.41452",
+      "location": {
+        "address": "56/2 Moo 6 Soi Muban Rattanathibet",
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1203,
+          "name": "Bang Yai"
+        },
+        "subDistrict": {
+          "subDistrictId": 120304,
+          "name": "Sao Thong Hin"
+        },
+        "postcode": "11140"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001389",
+      "viewer": 3,
+      "slug": "13-coins"
+    },
+    {
+      "placeId": "33199",
+      "status": "approved",
+      "name": "12 Aroi Salapao (2490)",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.75370",
+      "longitude": "100.50014",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1001,
+          "name": "Phra Nakhon"
+        },
+        "subDistrict": {
+          "subDistrictId": 100106,
+          "name": "Sao Chingcha"
+        },
+        "postcode": "10200"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004235",
+      "viewer": 3,
+      "slug": "12-aroi-salapao-(2490)"
+    },
+    {
+      "placeId": "33200",
+      "status": "approved",
+      "name": "103 Plus Factory",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.78315",
+      "longitude": "100.54295",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1014,
+          "name": "Phaya Thai"
+        },
+        "subDistrict": {
+          "subDistrictId": 101406,
+          "name": "Phaya Thai"
+        },
+        "postcode": "10400"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006469",
+      "viewer": 3,
+      "slug": "103-plus-factory"
+    },
+    {
+      "placeId": "33203",
+      "status": "approved",
+      "name": "1000 Sook Food Fun Farm",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "12.85905",
+      "longitude": "99.92150",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 228,
+          "name": "Phetchaburi"
+        },
+        "district": {
+          "districtId": 7604,
+          "name": "Cha-am"
+        },
+        "subDistrict": {
+          "subDistrictId": 760409,
+          "name": "Don Khun Huai"
+        },
+        "postcode": "76120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009129",
+      "viewer": 3,
+      "slug": "1000-sook-food-fun-farm"
+    },
+    {
+      "placeId": "33205",
+      "status": "approved",
+      "name": "1000 Lan Lap Yaso",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.72158",
+      "longitude": "100.76805",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1011,
+          "name": "Lat Krabang"
+        },
+        "subDistrict": {
+          "subDistrictId": 101101,
+          "name": "Lat Krabang"
+        },
+        "postcode": "10520"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006372",
+      "viewer": 3,
+      "slug": "1000-lan-lap-yaso"
+    },
+    {
+      "placeId": "33206",
+      "status": "approved",
+      "name": "100% Coffee",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.64576",
+      "longitude": "100.43177",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1021,
+          "name": "Bang Khun Thian"
+        },
+        "subDistrict": {
+          "subDistrictId": 102107,
+          "name": "Samae Dam"
+        },
+        "postcode": "10150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004315",
+      "viewer": 4,
+      "slug": "100%-coffee"
+    },
+    {
+      "placeId": "33210",
+      "status": "approved",
+      "name": "100 Islands Coffee Bar",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.70769",
+      "longitude": "100.00633",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8405,
+          "name": "Ko Pha-ngan"
+        },
+        "subDistrict": {
+          "subDistrictId": 840502,
+          "name": "Ban Tai"
+        },
+        "postcode": "84280"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007638",
+      "viewer": 6,
+      "slug": "100-islands-coffee-bar"
+    },
+    {
+      "placeId": "33212",
+      "status": "approved",
+      "name": "10 Baht Noodle Branch 2",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.07770",
+      "longitude": "99.36656",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8401,
+          "name": "Mueang Surat Thani"
+        },
+        "subDistrict": {
+          "subDistrictId": 840104,
+          "name": "Khun Thale"
+        },
+        "postcode": "84100"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008737",
+      "viewer": 5,
+      "slug": "10-baht-noodle-branch-2"
+    },
+    {
+      "placeId": "33213",
+      "status": "approved",
+      "name": "1 Buak 1 Tom Yam Pork Noodle",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.93651",
+      "longitude": "102.13455",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "Nakhon Ratchasima"
+        },
+        "district": {
+          "districtId": 3001,
+          "name": "Mueang Nakhon Ratchasima"
+        },
+        "subDistrict": {
+          "subDistrictId": 300119,
+          "name": "Nong Bua Sala"
+        },
+        "postcode": "30000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006918",
+      "viewer": 4,
+      "slug": "1-buak-1-tom-yam-pork-noodle"
+    },
+    {
+      "placeId": "33693",
+      "status": "approved",
+      "name": "Ban Chamaiphon",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "9.14334",
+      "longitude": "99.17005",
+      "location": {
+        "address": "Highway 4112",
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8417,
+          "name": "Phunphin"
+        },
+        "subDistrict": {
+          "subDistrictId": 841713,
+          "name": "Hua Toei"
+        },
+        "postcode": "84130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000724",
+      "viewer": 3,
+      "slug": "ban-chamaiphon"
+    },
+    {
+      "placeId": "33694",
+      "status": "approved",
+      "name": "Ban Chak Na Reservoir",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.06427",
+      "longitude": "101.45442",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "Chon Buri"
+        },
+        "district": {
+          "districtId": 2003,
+          "name": "Nong Yai"
+        },
+        "subDistrict": {
+          "subDistrictId": 200305,
+          "name": "Khao Sok"
+        },
+        "postcode": "20190"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003993",
+      "viewer": 3,
+      "slug": "ban-chak-na-reservoir"
+    },
+    {
+      "placeId": "33699",
+      "status": "approved",
+      "name": "Ban Chai Di Guesthouse",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "12.24268",
+      "longitude": "102.51336",
+      "location": {
+        "address": "67-69 Chai Mongkhon Road",
+        "province": {
+          "provinceId": 466,
+          "name": "Trat"
+        },
+        "district": {
+          "districtId": 2301,
+          "name": "Mueang Trat"
+        },
+        "subDistrict": {
+          "subDistrictId": 230101,
+          "name": "Bang Phra"
+        },
+        "postcode": "23000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001267",
+      "viewer": 3,
+      "slug": "ban-chai-di-guesthouse"
+    },
+    {
+      "placeId": "33700",
+      "status": "approved",
+      "name": "Ban Chai Charoen Reservoir",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "16.12985",
+      "longitude": "101.54456",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 573,
+          "name": "Chaiyaphum"
+        },
+        "district": {
+          "districtId": 3605,
+          "name": "Nong Bua Daeng"
+        },
+        "subDistrict": {
+          "subDistrictId": 360511,
+          "name": "Wang Chomphu"
+        },
+        "postcode": "36210"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003856",
+      "viewer": 3,
+      "slug": "ban-chai-charoen-reservoir"
+    },
+    {
+      "placeId": "33701",
+      "status": "approved",
+      "name": "Ban Cha Piak Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.64561",
+      "longitude": "100.44885",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1021,
+          "name": "Bang Khun Thian"
+        },
+        "subDistrict": {
+          "subDistrictId": 102105,
+          "name": "Tha Kham"
+        },
+        "postcode": "10150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08005124",
+      "viewer": 3,
+      "slug": "ban-cha-piak-restaurant"
+    },
+    {
+      "placeId": "33706",
+      "status": "approved",
+      "name": "Ban Cat Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "15.58868",
+      "longitude": "102.42180",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "Nakhon Ratchasima"
+        },
+        "district": {
+          "districtId": 3012,
+          "name": "Bua Yai"
+        },
+        "subDistrict": {
+          "subDistrictId": 301201,
+          "name": "Bua Yai"
+        },
+        "postcode": "30120"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006354",
+      "viewer": 3,
+      "slug": "ban-cat-restaurant"
+    },
+    {
+      "placeId": "33711",
+      "status": "approved",
+      "name": "Ban Cake Mae Bun",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "20.30614",
+      "longitude": "100.21717",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5708,
+          "name": "Chiang Saen"
+        },
+        "subDistrict": {
+          "subDistrictId": 570805,
+          "name": "Mae Ngoen"
+        },
+        "postcode": "57150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007838",
+      "viewer": 3,
+      "slug": "ban-cake-mae-bun"
+    },
+    {
+      "placeId": "33714",
+      "status": "approved",
+      "name": "Ban Cake At Samui",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.54100",
+      "longitude": "100.04042",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "Ko Samui"
+        },
+        "subDistrict": {
+          "subDistrictId": 840406,
+          "name": "Bo Phut"
+        },
+        "postcode": "84320"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008101",
+      "viewer": 3,
+      "slug": "ban-cake-at-samui"
+    },
+    {
+      "placeId": "33715",
+      "status": "approved",
+      "name": "Ban Cake Bakery",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "9.56681",
+      "longitude": "99.99987",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 354,
+          "name": "Surat Thani"
+        },
+        "district": {
+          "districtId": 8404,
+          "name": "Ko Samui"
+        },
+        "subDistrict": {
+          "subDistrictId": 840407,
+          "name": "Mae Nam"
+        },
+        "postcode": "84330"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008388",
+      "viewer": 3,
+      "slug": "ban-cake-bakery"
+    },
+    {
+      "placeId": "33716",
+      "status": "approved",
+      "name": "Ban Cake",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "20.19028",
+      "longitude": "100.22532",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5708,
+          "name": "Chiang Saen"
+        },
+        "subDistrict": {
+          "subDistrictId": 570803,
+          "name": "Ban Saeo"
+        },
+        "postcode": "57150"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007845",
+      "viewer": 3,
+      "slug": "ban-cake"
+    },
+    {
+      "placeId": "33719",
+      "status": "approved",
+      "name": "Ban Bunyong Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.88992",
+      "longitude": "100.41222",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 238,
+          "name": "Sing Buri"
+        },
+        "district": {
+          "districtId": 1701,
+          "name": "Mueang Sing Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 170102,
+          "name": "Bang Man"
+        },
+        "postcode": "16000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006637",
+      "viewer": 3,
+      "slug": "ban-bunyong-restaurant"
+    },
+    {
+      "placeId": "33721",
+      "status": "approved",
+      "name": "Ban Bun Khum Nang Phaya",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "18.68780",
+      "longitude": "98.93551",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 101,
+          "name": "Chiang Mai"
+        },
+        "district": {
+          "districtId": 5015,
+          "name": "Hang Dong"
+        },
+        "subDistrict": {
+          "subDistrictId": 501502,
+          "name": "Nong Kaeo"
+        },
+        "postcode": "50230"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003073",
+      "viewer": 3,
+      "slug": "ban-bun-khum-nang-phaya"
+    },
+    {
+      "placeId": "33724",
+      "status": "approved",
+      "name": "Ban Bueng Pork Noodle-Yentafo",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.01284",
+      "longitude": "100.71915",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 227,
+          "name": "Pathum Thani"
+        },
+        "district": {
+          "districtId": 1303,
+          "name": "Thanyaburi"
+        },
+        "subDistrict": {
+          "subDistrictId": 130303,
+          "name": "Rangsit"
+        },
+        "postcode": "12110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006693",
+      "viewer": 3,
+      "slug": "ban-bueng-pork-noodle-yentafo"
+    },
+    {
+      "placeId": "33725",
+      "status": "approved",
+      "name": "Ban Bueng Pork Noodle",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.33100",
+      "longitude": "100.98356",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 464,
+          "name": "Chon Buri"
+        },
+        "district": {
+          "districtId": 2001,
+          "name": "Mueang Chon Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 200115,
+          "name": "Huai Kapi"
+        },
+        "postcode": "20000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007477",
+      "viewer": 3,
+      "slug": "ban-bueng-pork-noodle"
+    },
+    {
+      "placeId": "33727",
+      "status": "approved",
+      "name": "Ban Bueng Chon Buri Pork-Fish Noodle",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "15.69882",
+      "longitude": "100.12553",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 107,
+          "name": "Nakhon Sawan"
+        },
+        "district": {
+          "districtId": 6001,
+          "name": "Mueang Nakhon Sawan"
+        },
+        "subDistrict": {
+          "subDistrictId": 600101,
+          "name": "Pak Nam Pho"
+        },
+        "postcode": "60000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08002805",
+      "viewer": 3,
+      "slug": "ban-bueng-chon-buri-pork-fish-noodle"
+    },
+    {
+      "placeId": "33728",
+      "status": "approved",
+      "name": "Ban Bua Thong Badminton Court",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.89405",
+      "longitude": "100.40366",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1204,
+          "name": "Bang Bua Thong"
+        },
+        "subDistrict": {
+          "subDistrictId": 120408,
+          "name": "Bang Rak Phatthana"
+        },
+        "postcode": "11110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01002045",
+      "viewer": 3,
+      "slug": "ban-bua-thong-badminton-court"
+    },
+    {
+      "placeId": "33739",
+      "status": "approved",
+      "name": "Ban Bodin Ratna Yot Phak Branch 2",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.78018",
+      "longitude": "100.64272",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1006,
+          "name": "Bang Kapi"
+        },
+        "subDistrict": {
+          "subDistrictId": 100601,
+          "name": "Khlong Chan"
+        },
+        "postcode": "10240"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08004473",
+      "viewer": 3,
+      "slug": "ban-bodin-ratna-yot-phak-branch-2"
+    },
+    {
+      "placeId": "33743",
+      "status": "approved",
+      "name": "Ban Ben",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "16.71686",
+      "longitude": "98.57132",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6306,
+          "name": "Mae Sot"
+        },
+        "subDistrict": {
+          "subDistrictId": 630601,
+          "name": "Mae Sot"
+        },
+        "postcode": "63110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008067",
+      "viewer": 3,
+      "slug": "ban-ben"
+    },
+    {
+      "placeId": "33759",
+      "status": "approved",
+      "name": "Ban Bang Hia Tamnan Ahan Pa Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.54347",
+      "longitude": "100.81492",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "Samut Prakan"
+        },
+        "district": {
+          "districtId": 1102,
+          "name": "Bang Bo"
+        },
+        "subDistrict": {
+          "subDistrictId": 110204,
+          "name": "Bang Phriang"
+        },
+        "postcode": "10560"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007296",
+      "viewer": 3,
+      "slug": "ban-bang-hia-tamnan-ahan-pa-restaurant"
+    },
+    {
+      "placeId": "33762",
+      "status": "approved",
+      "name": "Ban Bai Khing Noodle",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "19.68151",
+      "longitude": "100.20271",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5704,
+          "name": "Thoeng"
+        },
+        "subDistrict": {
+          "subDistrictId": 570401,
+          "name": "Wiang"
+        },
+        "postcode": "57160"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003424",
+      "viewer": 3,
+      "slug": "ban-bai-khing-noodle"
+    },
+    {
+      "placeId": "33763",
+      "status": "approved",
+      "name": "Ban Bai Restaurant",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "16.67275",
+      "longitude": "99.58927",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 103,
+          "name": "Kamphaeng Phet"
+        },
+        "district": {
+          "districtId": 6206,
+          "name": "Phran Kratai"
+        },
+        "subDistrict": {
+          "subDistrictId": 620601,
+          "name": "Phran Kratai"
+        },
+        "postcode": "62110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08008214",
+      "viewer": 3,
+      "slug": "ban-bai-restaurant"
+    },
+    {
+      "placeId": "33766",
+      "status": "approved",
+      "name": "Ban Bai Bun Homestay",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.89598",
+      "longitude": "101.65643",
+      "location": {
+        "address": "Chai Kong Road",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000531",
+      "viewer": 3,
+      "slug": "ban-bai-bun-homestay"
+    },
+    {
+      "placeId": "33774",
+      "status": "approved",
+      "name": "Ban Amnuai Phon",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "17.89113",
+      "longitude": "101.65504",
+      "location": {
+        "address": "175/2 Soi Si Chiang Khan 22",
+        "province": {
+          "provinceId": 576,
+          "name": "Loei"
+        },
+        "district": {
+          "districtId": 4203,
+          "name": "Chiang Khan"
+        },
+        "subDistrict": {
+          "subDistrictId": 420301,
+          "name": "Chiang Khan"
+        },
+        "postcode": "42110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02000315",
+      "viewer": 3,
+      "slug": "ban-amnuai-phon"
+    },
+    {
+      "placeId": "33775",
+      "status": "approved",
+      "name": "Ban Ai-Tim",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.80018",
+      "longitude": "100.43883",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 226,
+          "name": "Nonthaburi"
+        },
+        "district": {
+          "districtId": 1202,
+          "name": "Bang Kruai"
+        },
+        "subDistrict": {
+          "subDistrictId": 120207,
+          "name": "Maha Sawat"
+        },
+        "postcode": "11130"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08007276",
+      "viewer": 3,
+      "slug": "ban-ai-tim"
+    },
+    {
+      "placeId": "33776",
+      "status": "approved",
+      "name": "Ban Ai Un Coffee",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.98502",
+      "longitude": "102.09725",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 580,
+          "name": "Nakhon Ratchasima"
+        },
+        "district": {
+          "districtId": 3001,
+          "name": "Mueang Nakhon Ratchasima"
+        },
+        "subDistrict": {
+          "subDistrictId": 300101,
+          "name": "Nai Mueang"
+        },
+        "postcode": "30000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08006886",
+      "viewer": 3,
+      "slug": "ban-ai-un-coffee"
+    },
+    {
+      "placeId": "33777",
+      "status": "approved",
+      "name": "Ban Ai Un",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "20.16640",
+      "longitude": "99.62574",
+      "location": {
+        "address": "Highway 1234",
+        "province": {
+          "provinceId": 102,
+          "name": "Chiang Rai"
+        },
+        "district": {
+          "districtId": 5715,
+          "name": "Mae Fa Luang"
+        },
+        "subDistrict": {
+          "subDistrictId": 571503,
+          "name": "Mae Salong Nok"
+        },
+        "postcode": "57110"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001170",
+      "viewer": 3,
+      "slug": "ban-ai-un"
+    },
+    {
+      "placeId": "33779",
+      "status": "approved",
+      "name": "Ban Ahan Thai",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "13.64653",
+      "longitude": "100.68046",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 234,
+          "name": "Samut Prakan"
+        },
+        "district": {
+          "districtId": 1103,
+          "name": "Bang Phli"
+        },
+        "subDistrict": {
+          "subDistrictId": 110302,
+          "name": "Bang Kaeo"
+        },
+        "postcode": "10540"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08003204",
+      "viewer": 3,
+      "slug": "ban-ahan-thai"
+    },
+    {
+      "placeId": "33782",
+      "status": "approved",
+      "name": "Ban A Ma",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "16.86846",
+      "longitude": "99.13754",
+      "location": {
+        "address": "342/1 Soi Udom Suk 3",
+        "province": {
+          "provinceId": 115,
+          "name": "Tak"
+        },
+        "district": {
+          "districtId": 6301,
+          "name": "Mueang Tak"
+        },
+        "subDistrict": {
+          "subDistrictId": 630108,
+          "name": "Nam Ruem"
+        },
+        "postcode": "63000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001154",
+      "viewer": 3,
+      "slug": "ban-a-ma"
+    },
+    {
+      "placeId": "33786",
+      "status": "approved",
+      "name": "Ban 3 Chai",
+      "introduction": null,
+      "category": {
+        "categoryId": 2,
+        "name": "Accommodation"
+      },
+      "sha": null,
+      "latitude": "16.55629",
+      "longitude": "100.99561",
+      "location": {
+        "address": "Highway 2258",
+        "province": {
+          "provinceId": 110,
+          "name": "Phetchabun"
+        },
+        "district": {
+          "districtId": 6711,
+          "name": "Khao Kho"
+        },
+        "subDistrict": {
+          "subDistrictId": 671105,
+          "name": "Sado Phong"
+        },
+        "postcode": "67270"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P02001257",
+      "viewer": 3,
+      "slug": "ban-3-chai"
+    },
+    {
+      "placeId": "33795",
+      "status": "approved",
+      "name": "Bally's Si Lom",
+      "introduction": null,
+      "category": {
+        "categoryId": 13,
+        "name": "Other"
+      },
+      "sha": null,
+      "latitude": "13.72920",
+      "longitude": "100.53536",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 219,
+          "name": "Bangkok"
+        },
+        "district": {
+          "districtId": 1004,
+          "name": "Bang Rak"
+        },
+        "subDistrict": {
+          "subDistrictId": 100403,
+          "name": "Suriyawong"
+        },
+        "postcode": "10500"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P01003523",
+      "viewer": 3,
+      "slug": "bally's-si-lom"
+    },
+    {
+      "placeId": "33796",
+      "status": "approved",
+      "name": "Bam Noodle (Original)",
+      "introduction": null,
+      "category": {
+        "categoryId": 8,
+        "name": "Restaurant"
+      },
+      "sha": null,
+      "latitude": "14.84320",
+      "longitude": "100.64380",
+      "location": {
+        "address": null,
+        "province": {
+          "provinceId": 223,
+          "name": "Lop Buri"
+        },
+        "district": {
+          "districtId": 1601,
+          "name": "Mueang Lop Buri"
+        },
+        "subDistrict": {
+          "subDistrictId": 160106,
+          "name": "Khao Sam Yot"
+        },
+        "postcode": "15000"
+      },
+      "thumbnailUrl": [],
+      "tags": [],
+      "distance": null,
+      "createdAt": "2019-06-06T10:14:07.000Z",
+      "updatedAt": "2019-06-06T10:14:07.000Z",
+      "migrateId": "P08009031",
+      "viewer": 3,
+      "slug": "bam-noodle-(original)"
+    }
+  ],
+  "query": {
+    "limit": 1000,
+    "page": 21,
+    "type": "place",
+    "hasIntroduction": false,
+    "hasThumbnail": false,
+    "hasName": false
+  },
+  "pagination": {
+    "pageNumber": 21,
+    "pageSize": 1000,
+    "total": 20129
+  }
+}

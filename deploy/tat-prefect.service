@@ -1,0 +1,21 @@
+[Unit]
+Description=TAT Daily Event Sync (Prefect)
+After=network.target postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/tat-pipeline
+EnvironmentFile=/opt/tat-pipeline/.env
+ExecStart=/opt/tat-pipeline/venv/bin/python prefect_flows/tat_daily_sync.py serve
+Restart=always
+RestartSec=30
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=tat-prefect
+
+[Install]
+WantedBy=multi-user.target
