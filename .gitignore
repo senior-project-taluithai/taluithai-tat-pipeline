@@ -66,3 +66,6 @@ Thumbs.db
 # LangGraph API
 .langgraph_api
 env.production
+
+
+AGENTS.md

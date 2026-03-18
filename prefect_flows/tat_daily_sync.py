@@ -48,7 +48,7 @@ def get_latest_event_timestamp() -> str | None:
     logger = get_run_logger()
     conn = get_connection()
     cur = conn.cursor()
-    cur.execute("SELECT MAX(updated_at) FROM tat.events")
+    cur.execute("SELECT MAX(updated_at) FROM public.events")
     result = cur.fetchone()[0]
     cur.close()
     conn.close()
@@ -124,7 +124,6 @@ def upsert_events_th(events: list) -> int:
 
         insert_data.append(
             (
-                e["eventId"],
                 e.get("name"),
                 e.get("introduction"),
                 e.get("startDate"),
@@ -133,29 +132,21 @@ def upsert_events_th(events: list) -> int:
                 e.get("longitude"),
                 province_id,
                 e.get("thumbnailUrl"),
-                e.get("tags", []),
-                e.get("createdAt"),
                 e.get("updatedAt"),
             )
         )
 
     sql = """
-        INSERT INTO tat.events (
-            event_id, name, introduction, start_date, end_date,
-            latitude, longitude, province_id, thumbnail_url, tags,
-            created_at, updated_at
+        INSERT INTO public.events (
+            name, detail, start_date, end_date,
+            latitude, longitude, province_id, thumbnail_url, updated_at
         ) VALUES %s
-        ON CONFLICT (event_id) DO UPDATE SET
-            name = EXCLUDED.name,
-            introduction = EXCLUDED.introduction,
-            start_date = EXCLUDED.start_date,
+        ON CONFLICT (name, start_date, province_id) DO UPDATE SET
+            detail = EXCLUDED.detail,
             end_date = EXCLUDED.end_date,
             latitude = EXCLUDED.latitude,
             longitude = EXCLUDED.longitude,
-            province_id = EXCLUDED.province_id,
             thumbnail_url = EXCLUDED.thumbnail_url,
-            tags = EXCLUDED.tags,
-            created_at = EXCLUDED.created_at,
             updated_at = EXCLUDED.updated_at
     """
 
@@ -178,13 +169,14 @@ def upsert_events_en(events: list) -> int:
     cur = conn.cursor()
 
     update_data = [
-        (e.get("name"), e.get("introduction"), e["eventId"]) for e in events
+        (e.get("name"), e.get("introduction"), e.get("startDate"), e.get("endDate"))
+        for e in events
     ]
 
     sql = """
-        UPDATE tat.events
-        SET name_en = %s, introduction_en = %s
-        WHERE event_id = %s
+        UPDATE public.events
+        SET name_en = %s, detail_en = %s
+        WHERE start_date = %s AND end_date = %s AND name = %s
     """
     cur.executemany(sql, update_data)
     conn.commit()
@@ -222,19 +214,29 @@ def filter_new_events(events: list, since: str | None) -> list:
     if not since:
         return with_coords  # first run → take everything with coords
 
-    since_dt = _parse_iso(since)
-    if since_dt is None:
+    from datetime import datetime
+
+    try:
+        since_dt = datetime.fromisoformat(since.replace("Z", "+00:00"))
+    except (ValueError, TypeError):
         return with_coords
 
     new_events = []
     for e in with_coords:
-        event_ts = _parse_iso(e.get("updatedAt") or e.get("createdAt"))
-        if event_ts is None or event_ts > since_dt:
-            new_events.append(e)
+        try:
+            updated_str = e.get("updatedAt")
+            if updated_str:
+                event_dt = datetime.fromisoformat(updated_str.replace("Z", "+00:00"))
+                if event_dt > since_dt:
+                    new_events.append(e)
+        except (ValueError, TypeError):
+            pass
 
     logger.info(
         "Filtered %d → %d new/updated events (since %s)",
-        len(with_coords), len(new_events), since,
+        len(with_coords),
+        len(new_events),
+        since,
     )
     return new_events
 
@@ -258,9 +260,9 @@ def tat_daily_event_sync():
     # Summary
     conn = get_connection()
     cur = conn.cursor()
-    cur.execute("SELECT COUNT(*) FROM tat.events")
+    cur.execute("SELECT COUNT(*) FROM public.events")
     total = cur.fetchone()[0]
-    cur.execute("SELECT COUNT(*) FROM tat.events WHERE name_en IS NOT NULL")
+    cur.execute("SELECT COUNT(*) FROM public.events WHERE name_en IS NOT NULL")
     with_en = cur.fetchone()[0]
     cur.close()
     conn.close()
