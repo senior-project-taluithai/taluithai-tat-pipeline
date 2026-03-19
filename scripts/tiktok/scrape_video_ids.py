@@ -73,27 +73,46 @@ async def get_video_ids_from_search(page, query: str, max_videos: int = 25) -> S
 
     # Scroll down to load more videos (ปรับตามที่ผู้ใช้แนะนำ: เลื่อน 1 ครั้ง รอสักพักให้โหลดเสร็จ ทำซ้ำ 5-10 ครั้ง)
     scroll_count = min(10, max(5, max_videos // 5))
+    all_hrefs = set()
+
     for i in range(scroll_count):
-        await page.keyboard.press("End")
+        # Press PageDown a few times to simulate reading and triggering lazy load
+        for _ in range(3):
+            await page.keyboard.press("PageDown")
+            await asyncio.sleep(1.0)
+
         print(f"   ⬇️ Scrolling ({i + 1}/{scroll_count})... waiting for videos to load")
-        await asyncio.sleep(4.0)  # หน่วงเวลาเพิ่มขึ้นเป็น 4 วินาทีต่อการ scroll
+        await asyncio.sleep(3.0)  # หน่วงเวลาเพิ่มให้โหลดเสร็จ
+
+        # เก็บสะสมลิงก์ระหว่างการเลื่อนเผื่อเว็บลบ DOM เก่าทิ้ง
+        try:
+            current_hrefs = await page.evaluate("""() => {
+                const anchors = Array.from(document.querySelectorAll('a'));
+                return anchors.map(a => a.href).filter(href => href.includes('/video/'));
+            }""")
+            all_hrefs.update(current_hrefs)
+        except:
+            pass
+
+        if len(all_hrefs) >= max_videos:
+            break
 
     # Wait a bit more for dynamic content at the very end
-    await asyncio.sleep(3)
+    await asyncio.sleep(2)
 
-    # Extract video links
+    # Extract final video links just in case
     try:
-        hrefs = await page.evaluate("""() => {
+        final_hrefs = await page.evaluate("""() => {
             const anchors = Array.from(document.querySelectorAll('a'));
             return anchors.map(a => a.href).filter(href => href.includes('/video/'));
         }""")
+        all_hrefs.update(final_hrefs)
     except Exception as e:
         print(f"   ⚠️ Failed to extract links: {e}")
-        return set()
 
     # Extract video IDs
     video_ids = set()
-    for link in hrefs:
+    for link in all_hrefs:
         match = re.search(r"/video/(\d+)", link)
         if match:
             video_ids.add(match.group(1))
