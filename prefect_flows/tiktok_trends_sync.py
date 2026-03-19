@@ -1,7 +1,8 @@
 import os
 import sys
+import random
 import asyncio
-from datetime import datetime
+from datetime import datetime, timedelta
 from prefect import flow, task
 from pymongo import MongoClient
 
@@ -128,6 +129,8 @@ def extract_metadata_and_map_places(video_ids: list, search_keyword: str):
                     "caption": caption,
                     "views": metadata.get("statistics", {}).get("playCount", 0),
                     "likes": metadata.get("statistics", {}).get("diggCount", 0),
+                    "collectCount": metadata.get("statistics", {}).get("collectCount", 0),
+                    "shareCount": metadata.get("statistics", {}).get("shareCount", 0),
                 },
                 "trendScore": metadata.get("statistics", {}).get("playCount", 0)
                 + (metadata.get("statistics", {}).get("diggCount", 0) * 10),
@@ -144,12 +147,18 @@ def extract_metadata_and_map_places(video_ids: list, search_keyword: str):
         except Exception as e:
             print(f"Error processing video {vid}: {e}")
 
+
+    # 6. Cleanup old trends (older than 7 days)
+    seven_days_ago = datetime.now() - timedelta(days=7)
+    deleted = trends_col.delete_many({"scrapedAt": {"$lt": seven_days_ago}})
+    print(f"🧹 Cleaned up {deleted.deleted_count} old trends from MongoDB.")
+    
     client.close()
     return results
 
 
 @flow(name="TikTok Trending Places Sync")
-def tiktok_trends_pipeline(keyword: str = "ที่เที่ยวฮิต", max_videos: int = 20):
+def tiktok_trends_pipeline(max_videos: int = 40):
     """
     Main Prefect Flow:
     Scrapes TikTok for trending places, extracts locations via LLM,
@@ -158,26 +167,35 @@ def tiktok_trends_pipeline(keyword: str = "ที่เที่ยวฮิต"
     # Create event loop for async task
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
-
-    # Determine keyword based on day of month if not provided
-    if not keyword:
-        day_of_month = datetime.now().day
-        # Index is 0-based, day is 1-based. Modulo just in case list is shorter than month days.
-        keyword_idx = (day_of_month - 1) % len(TIKTOK_SEARCH_KEYWORDS)
-        keyword = TIKTOK_SEARCH_KEYWORDS[keyword_idx]
-        print(f"📅 Day {day_of_month}: Selected keyword '{keyword}'")
-
-    # 1. Get Video IDs (using a higher max_videos to get as many as possible)
-    # The actual playwright scraper has limits based on scroll counts,
-    # but setting max_videos=100 will allow it to fetch many more clips.
-    video_ids = loop.run_until_complete(get_trending_video_ids(keyword, max_videos))
-
-    # 2. Extract and Store
-    results = extract_metadata_and_map_places(video_ids, keyword)
-
-    print(f"Flow completed. Successfully processed {len(results)} trending places.")
-    return results
-
+    
+    # Randomly select 2-3 keywords to scrape in this run to ensure diversity
+    num_keywords = random.randint(2, 3)
+    selected_keywords = random.sample(TIKTOK_SEARCH_KEYWORDS, num_keywords)
+    print(f"🎲 Selected keywords for this run: {selected_keywords}")
+    
+    all_results = []
+    for keyword in selected_keywords:
+        print(f"
+--- 🚀 Processing Keyword: {keyword} ---")
+        # 1. Get Video IDs
+        video_ids = loop.run_until_complete(get_trending_video_ids(keyword, max_videos))
+        
+        # 2. Extract and Store
+        results = extract_metadata_and_map_places(video_ids, keyword)
+        all_results.extend(results)
+    
+    print(f"
+✅ Flow completed. Successfully processed {len(all_results)} trending places in total.")
+    return all_results
 
 if __name__ == "__main__":
-    tiktok_trends_pipeline()
+    # You can run it directly
+    # tiktok_trends_pipeline()
+    
+    # Or deploy it as a served flow running every 12 hours
+    tiktok_trends_pipeline.serve(
+        name="tiktok-trends-12h-sync",
+        cron="0 2,14 * * *", # Run at 02:00 and 14:00 daily
+        tags=["tiktok", "trends"],
+        description="Scrapes TikTok for trending tourist places every 12 hours"
+    )

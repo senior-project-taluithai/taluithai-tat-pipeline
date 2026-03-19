@@ -24,13 +24,19 @@ def scrape_video_metadata(video_id: str):
             base_views = random.randint(50000, 2000000)
             base_likes = int(base_views * random.uniform(0.05, 0.15))
             
+            # Engagement metrics for Hidden Gem calculation
+            base_saves = int(base_views * random.uniform(0.01, 0.05))
+            base_shares = int(base_views * random.uniform(0.005, 0.02))
+            
             print(f"[{video_id}] Successfully extracted caption via oEmbed.")
             return {
                 "desc": title,
                 "author": author,
                 "statistics": {
                     "playCount": base_views,
-                    "diggCount": base_likes
+                    "diggCount": base_likes,
+                    "collectCount": base_saves,
+                    "shareCount": base_shares
                 }
             }
         else:
