@@ -18,10 +18,9 @@ from scripts.tiktok.llm_mapper import extract_place_name, find_place_id
 from scripts.tiktok.scrape_video_metadata import scrape_video_metadata
 
 
-TIKTOK_SEARCH_KEYWORDS = [
+# Split into two distinct groups to prevent mainstream places showing up in hidden gems
+MAINSTREAM_KEYWORDS = [
     "ที่เที่ยวฮิตตอนนี้",
-    "ที่เที่ยวเปิดใหม่",
-    "รีวิวที่เที่ยวไทย",
     "พิกัดที่เที่ยว",
     "จุดเช็คอิน",
     "เที่ยวตามรีวิว",
@@ -29,27 +28,25 @@ TIKTOK_SEARCH_KEYWORDS = [
     "รวมที่เที่ยว",
     "เที่ยวไทย",
     "เที่ยววันหยุด",
-    "พิกัดถ่ายรูป",
-    "คาเฟ่เปิดใหม่",
     "มุมถ่ายรูปปังๆ",
+    "วัดสวยบอกต่อ",
+    "ตลาดกลางคืน",
+    "ที่เที่ยวใกล้กรุงเทพ",
+    "ที่เที่ยวยอดฮิต",
+    "คนเยอะมาก",
+]
+
+HIDDEN_GEM_KEYWORDS = [
     "ที่เที่ยวลับ",
     "พิกัดลับ",
     "UnseenThailand",
+    "ซ่อนตัว",
+    "คนยังไม่ค่อยรู้",
+    "ที่เที่ยวเปิดใหม่",
+    "คาเฟ่เปิดใหม่",
     "ที่เที่ยวฮีลใจ",
-    "เที่ยวธรรมชาติ",
-    "ทะเลสวยบอกต่อ",
-    "จุดกางเต็นท์",
-    "เที่ยวเขา",
-    "สายมูห้ามพลาด",
-    "วัดสวยบอกต่อ",
-    "เที่ยวเมืองเก่า",
-    "ตลาดกลางคืน",
-    "สตรีทฟู้ด",
-    "เที่ยวสายลุย",
-    "ที่เที่ยวใกล้กรุงเทพ",
-    "OneDayTrip",
     "เที่ยวเมืองรอง",
-    "VLOGพาเที่ยว",
+    "ที่เที่ยวแปลกใหม่"
 ]
 
 
@@ -60,7 +57,7 @@ async def get_trending_video_ids(keyword: str, max_videos: int) -> list:
 
 
 @task
-def extract_metadata_and_map_places(video_ids: list, search_keyword: str):
+def extract_metadata_and_map_places(video_ids: list, search_keyword: str, source_type: str = 'mainstream'):
     """
     For each video:
     1. Scrape metadata (caption, views, etc)
@@ -122,6 +119,7 @@ def extract_metadata_and_map_places(video_ids: list, search_keyword: str):
             trend_data = {
                 "placeId": str(place_id),
                 "placeName": place_name,
+                "source_type": source_type,
                 "tiktokMetadata": {
                     "videoId": vid,
                     "keyword": search_keyword,
