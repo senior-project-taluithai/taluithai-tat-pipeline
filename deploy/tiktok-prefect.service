@@ -1,0 +1,20 @@
+[Unit]
+Description=TikTok Trending Places Sync (Prefect)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/tat-pipeline
+EnvironmentFile=/opt/tat-pipeline/.env
+ExecStart=/opt/tat-pipeline/venv/bin/python prefect_flows/tiktok_trends_sync.py serve
+Restart=always
+RestartSec=30
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=tiktok-prefect
+
+[Install]
+WantedBy=multi-user.target

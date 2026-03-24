@@ -12,7 +12,6 @@ Usage:
     python prefect_flows/deploy_tiktok_cloud.py
 """
 
-import asyncio
 import os
 import sys
 
@@ -25,8 +24,8 @@ load_dotenv(os.path.join(PROJECT_PATH, ".env"))
 from tiktok_trends_sync import tiktok_trends_pipeline
 
 
-async def deploy_to_prefect_cloud():
-    await tiktok_trends_pipeline.deploy(
+def deploy_to_prefect_cloud():
+    tiktok_trends_pipeline.deploy(
         name="tiktok-trends-sync",
         work_pool_name="default-agent-pool",  # Change to your work pool name in Prefect Cloud
         cron="0 2,14 * * *",  # Twice daily: 02:00 and 14:00
@@ -38,4 +37,4 @@ async def deploy_to_prefect_cloud():
 
 
 if __name__ == "__main__":
-    asyncio.run(deploy_to_prefect_cloud())
+    deploy_to_prefect_cloud()
