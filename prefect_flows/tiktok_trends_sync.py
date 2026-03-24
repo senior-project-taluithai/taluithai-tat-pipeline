@@ -46,7 +46,14 @@ HIDDEN_GEM_KEYWORDS = [
     "คาเฟ่เปิดใหม่",
     "ที่เที่ยวฮีลใจ",
     "เที่ยวเมืองรอง",
-    "ที่เที่ยวแปลกใหม่"
+    "ที่เที่ยวแปลกใหม่",
+    "คาเฟ่ลับ",
+    "ที่พักลับ",
+    "จุดถ่ายรูปลับ",
+    "หนีความวุ่นวาย",
+    "คนน้อย",
+    "สงบๆ",
+    "ฟีลธรรมชาติ",
 ]
 
 
@@ -57,7 +64,9 @@ async def get_trending_video_ids(keyword: str, max_videos: int) -> list:
 
 
 @task
-def extract_metadata_and_map_places(video_ids: list, search_keyword: str, source_type: str = 'mainstream'):
+def extract_metadata_and_map_places(
+    video_ids: list, search_keyword: str, source_type: str = "mainstream"
+):
     """
     For each video:
     1. Scrape metadata (caption, views, etc)
@@ -127,7 +136,9 @@ def extract_metadata_and_map_places(video_ids: list, search_keyword: str, source
                     "caption": caption,
                     "views": metadata.get("statistics", {}).get("playCount", 0),
                     "likes": metadata.get("statistics", {}).get("diggCount", 0),
-                    "collectCount": metadata.get("statistics", {}).get("collectCount", 0),
+                    "collectCount": metadata.get("statistics", {}).get(
+                        "collectCount", 0
+                    ),
                     "shareCount": metadata.get("statistics", {}).get("shareCount", 0),
                 },
                 "trendScore": metadata.get("statistics", {}).get("playCount", 0)
@@ -145,55 +156,75 @@ def extract_metadata_and_map_places(video_ids: list, search_keyword: str, source
         except Exception as e:
             print(f"Error processing video {vid}: {e}")
 
-
     # 6. Cleanup old trends (older than 7 days)
     seven_days_ago = datetime.now() - timedelta(days=7)
     deleted = trends_col.delete_many({"scrapedAt": {"$lt": seven_days_ago}})
     print(f"🧹 Cleaned up {deleted.deleted_count} old trends from MongoDB.")
-    
+
     client.close()
     return results
 
 
 @flow(name="TikTok Trending Places Sync")
-def tiktok_trends_pipeline(max_videos: int = 40):
+async def tiktok_trends_pipeline(max_videos: int = 40):
     """
     Main Prefect Flow:
     Scrapes TikTok for trending places, extracts locations via LLM,
     and stores them in MongoDB for the API to consume.
     """
-    # Create event loop for async task
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
-    
-    # Randomly select 2-3 keywords to scrape in this run to ensure diversity
-    num_keywords = random.randint(2, 3)
-    selected_keywords = random.sample(TIKTOK_SEARCH_KEYWORDS, num_keywords)
-    print(f"🎲 Selected keywords for this run: {selected_keywords}")
-    
+    # Randomly select keywords to scrape in this run to ensure diversity
+    num_mainstream = random.randint(2, 3)
+    num_hidden = random.randint(3, 4)
+
+    selected_mainstream = random.sample(MAINSTREAM_KEYWORDS, num_mainstream)
+    selected_hidden = random.sample(HIDDEN_GEM_KEYWORDS, num_hidden)
+
+    print(f"🎲 Selected mainstream keywords for this run: {selected_mainstream}")
+    print(f"🎲 Selected hidden gem keywords for this run: {selected_hidden}")
+
     all_results = []
-    for keyword in selected_keywords:
-        print(f"
---- 🚀 Processing Keyword: {keyword} ---")
+
+    # Process Mainstream Keywords
+    for keyword in selected_mainstream:
+        print(f"\n--- 🚀 Processing Mainstream Keyword: {keyword} ---")
         # 1. Get Video IDs
-        video_ids = loop.run_until_complete(get_trending_video_ids(keyword, max_videos))
-        
-        # 2. Extract and Store
-        results = extract_metadata_and_map_places(video_ids, keyword)
+        video_ids = await get_trending_video_ids(keyword, max_videos)
+
+        # 2. Extract and Store (explicitly tag as mainstream)
+        results = extract_metadata_and_map_places(
+            video_ids, keyword, source_type="mainstream"
+        )
         all_results.extend(results)
-    
-    print(f"
-✅ Flow completed. Successfully processed {len(all_results)} trending places in total.")
+
+    # Process Hidden Gem Keywords
+    for keyword in selected_hidden:
+        print(f"\n--- 💎 Processing Hidden Gem Keyword: {keyword} ---")
+        # 1. Get Video IDs
+        video_ids = await get_trending_video_ids(keyword, max_videos)
+
+        # 2. Extract and Store (explicitly tag as hidden_gem)
+        results = extract_metadata_and_map_places(
+            video_ids, keyword, source_type="hidden_gem"
+        )
+        all_results.extend(results)
+
+    print(
+        f"\n✅ Flow completed. Successfully processed {len(all_results)} trending places in total."
+    )
     return all_results
 
+
 if __name__ == "__main__":
-    # You can run it directly
-    # tiktok_trends_pipeline()
-    
-    # Or deploy it as a served flow running every 12 hours
-    tiktok_trends_pipeline.serve(
-        name="tiktok-trends-12h-sync",
-        cron="0 2,14 * * *", # Run at 02:00 and 14:00 daily
-        tags=["tiktok", "trends"],
-        description="Scrapes TikTok for trending tourist places every 12 hours"
-    )
+    import sys
+
+    if len(sys.argv) > 1 and sys.argv[1] == "serve":
+        # Long-running mode: serve the flow on a cron schedule (local)
+        tiktok_trends_pipeline.serve(
+            name="tiktok-trends-12h-sync",
+            cron="0 2,14 * * *",
+            tags=["tiktok", "trends"],
+            description="Scrapes TikTok for trending tourist places every 12 hours",
+        )
+    else:
+        # One-shot: run immediately
+        asyncio.run(tiktok_trends_pipeline())
