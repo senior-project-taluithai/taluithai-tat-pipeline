@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Data Modules
 
-### 📍 Places (สถานที่)
+### 📍 Places
 
 ```bash
 cd places
@@ -48,7 +48,7 @@ python places/run_parallel_scrapers.py --workers 3
 
 ---
 
-### 🎉 Events (กิจกรรม)
+### 🎉 Events
 
 ```bash
 cd events
@@ -59,7 +59,7 @@ Options: `--lang th`, `--lang en`, `--lang both`
 
 ---
 
-### 🚂 Railway (ข้อมูลรถไฟ)
+### 🚂 Railway
 
 ```bash
 cd railway/scripts
@@ -67,9 +67,9 @@ python load_railway_data.py
 ```
 
 **Data Files:**
-- `railway/data/stations_geocoded.xlsx` - สถานีรถไฟพร้อมพิกัด
-- `railway/data/after32.csv` - ตารางเดินรถ
-- `railway/data/roadinfrastation.xlsx` - ข้อมูล Bus Terminals
+- `railway/data/stations_geocoded.xlsx`
+- `railway/data/after32.csv`
+- `railway/data/roadinfrastation.xlsx`
 
 **Test Query:**
 ```sql
@@ -82,9 +82,9 @@ SELECT * FROM railway.find_trains('Bang Sue', 'Khon Kaen', '08:00:00');
 
 | Schema | Tables | Description |
 |--------|--------|-------------|
-| `tat` | places, events, provinces, categories | ข้อมูล TAT หลัก |
-| `railway` | stations, train_schedules | ตารางรถไฟ |
-| `public_transport` | bus_terminals, bus_routes | ขนส่งสาธารณะ |
+| `tat` | places, events, provinces, categories |
+| `railway` | stations, train_schedules |
+| `public_transport` | bus_terminals, bus_routes |
 
 ---
 
